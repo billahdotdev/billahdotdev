@@ -254,7 +254,7 @@ Send a WhatsApp/messenger/Viber message with the following information:
 
 💸 We'll respond to confirm your order and provide payment instructions.
 
-Or You can buy directly from [garmentik](www.garmentik.com).
+Or You can buy directly from our  [garmentik](www.garmentik.com) website.
 
 Happy shopping! 🎁
 </details>      
