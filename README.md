@@ -79,7 +79,6 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
 | ![T-Shirt](https://via.placeholder.com/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
-| ![Hoodie](https://via.placeholder.com/150) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
 
 ---
 
