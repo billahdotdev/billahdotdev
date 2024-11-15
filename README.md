@@ -67,7 +67,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
-# ![Garmetik Banner](https://raw.githubusercontent.com/<username>/<repo>/main/images/banner.png)
+  # ![Garmetik Banner](https://via.placeholder.com/1200x400/4682B4/FFFFFF?text=Welcome+to+Garmetik)
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
@@ -80,14 +80,4 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 | ![T-Shirt](https://via.placeholder.com/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
 | ![Hoodie](https://via.placeholder.com/150) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
 
----
-
-### Notes:
-- Replace `<username>` and `<repo>` in the URL with your GitHub username and repository name.
-- Ensure the image exists in the specified location (e.g., `images/banner.png`).
-
----
-
-Let me know if you encounter further issues, and I can assist!
-
-</details>
+<details />
