@@ -75,6 +75,52 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <br>
 
+# 🛍️ T-Shirt Store
+
+Welcome to our **T-Shirt Store**! Discover our latest collection below. Click the WhatsApp button to connect with us directly about a product you’re interested in!
+
+---
+
+## 👕 Our Products
+
+### Classic White Tee
+<img src="https://example.com/path-to-your-image1.jpg" alt="Classic White Tee" width="300">
+
+**Price:** $15  
+**Sizes:** S, M, L, XL  
+A timeless white T-shirt made from 100% organic cotton. Perfect for casual wear.
+
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.)
+
+---
+
+### Graphic Black Tee
+<img src="https://example.com/path-to-your-image2.jpg" alt="Graphic Black Tee" width="300">
+
+**Price:** $20  
+**Sizes:** S, M, L, XL, XXL  
+A stylish black T-shirt with bold graphic prints. Stand out in the crowd!
+
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.)
+
+---
+
+### Vintage Grey Tee
+<img src="https://example.com/path-to-your-image3.jpg" alt="Vintage Grey Tee" width="300">
+
+**Price:** $18  
+**Sizes:** M, L, XL  
+A soft and comfortable grey T-shirt with a vintage vibe. Ideal for everyday wear.
+
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey+Tee.)
+
+---
+
+## 📬 Contact Us
+
+For custom orders, bulk inquiries, or collaborations:  
+📱 **WhatsApp:** [Chat Now](https://wa.me/15551234567)  
+📧 **Email:** [contact@example.com](mailto:contact@example.com)
 
 
 <br>
