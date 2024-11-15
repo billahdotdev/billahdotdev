@@ -77,24 +77,30 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 
 # 🛍️ T-Shirt Store
 
+Welcome to our **T-Shirt Store**! Browse our products below and get in touch with us via WhatsApp if you're interested.
+
+---
+
 ## 👕 Our Products
 
 ### Java Men's T-shirt (JT)
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Java Men's T-shirt" style="width: 80%; max-width: 600px;">
+
+<div style="max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #f9f9f9; text-align: center;">
+    <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Java Men's T-shirt" style="width: 100%; border-radius: 10px; max-height: 400px; object-fit: cover;">
+    
+    <div style="margin-top: 15px; font-family: Arial, sans-serif;">
+        <h2 style="font-size: 24px; color: #333;">Java Men's T-shirt (JT)</h2>
+        <p style="font-size: 18px; color: #666;">Fabric: Cotton Blend</p>
+        <p style="font-size: 18px; color: #666;">Colors Available: Navy, Maroon, Olive, White</p>
+        <p style="font-size: 18px; color: #666;">Size: S, M, L, XL</p>
+        <p style="font-size: 20px; color: #333; font-weight: bold;">Price: $0.00</p>
+        <p style="font-size: 18px; color: #666;">Quantity Available: 50 units</p>
+
+        <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Java%20Men's%20T-shirt%20(JT)." style="display: inline-block; margin-top: 20px; padding: 12px 20px; background-color: #25d366; color: white; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 30px; transition: background-color 0.3s ease;">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" alt="WhatsApp" style="vertical-align: middle; margin-right: 8px;"> Contact Seller on WhatsApp
+        </a>
+    </div>
 </div>
-
-#### Product Details:
-- **Fabric**: Cotton Blend
-- **Colors**: Navy, Maroon, Olive, White
-- **Size**: S, M, L, XL
-- **Price**: $0.00 (Placeholder price)
-- **Quantity Available**: 50 units (Update as per availability)
-
-#### Contact Seller
-If you're interested in purchasing or have any questions, click the WhatsApp button below:
-
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Java%20Men's%20T-shirt%20(JT).)
 
 ---
 
@@ -103,6 +109,9 @@ If you're interested in purchasing or have any questions, click the WhatsApp but
 For custom orders, bulk inquiries, or collaborations:  
 📱 **WhatsApp:** [Chat Now](https://wa.me/15551234567)  
 📧 **Email:** [contact@example.com](mailto:contact@example.com)
+
+---
+
 
 
 <br>
