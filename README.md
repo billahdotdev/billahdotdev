@@ -75,19 +75,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <br>
 
-### 1. **Classic White Tee**
-![Classic White Tee]("https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")  
-- **Price:** $15  
-- **Description:** A timeless white T-shirt made from 100% organic cotton. Perfect for casual wear.  
-- **Sizes Available:** S, M, L, XL  
-- [![Chat on WhatsApp](https://img.shields.io/badge/Order%20on-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi!%20I%20want%20to%20order%20the%20Classic%20White%20Tee.)
-  <br>
-  <br>
-  # 🛍️ T-Shirt Store
 
-Welcome to our **T-Shirt Store**! Explore our stylish collection and contact us via WhatsApp with your interest.  
-
----
 
 ## 👕 Our Products
 
