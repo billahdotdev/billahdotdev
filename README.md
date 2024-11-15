@@ -78,8 +78,4 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
-| ![T-Shirt](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D/600x600) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
-
-
----
-
+| [![T-Shirt](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=150&auto=format&fit=crop&q=60)](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
