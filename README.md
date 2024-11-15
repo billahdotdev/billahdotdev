@@ -67,8 +67,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
-<br>
-![Garmetik Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Garmetik)
+# ![Garmetik Banner](https://raw.githubusercontent.com/<username>/<repo>/main/images/banner.png)
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
@@ -83,6 +82,12 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
+### Notes:
+- Replace `<username>` and `<repo>` in the URL with your GitHub username and repository name.
+- Ensure the image exists in the specified location (e.g., `images/banner.png`).
 
+---
+
+Let me know if you encounter further issues, and I can assist!
 
 </details>
