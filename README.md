@@ -63,7 +63,6 @@ The slots for October and November are fully booked. Availability for December w
 <br />
 For T-shirt Business inquiries, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb0upJO89fZXlB3xTG6W1qxsRAFUNTM74A/viewform?embedded=true" width="640" height="1442" frameborder="0" marginheight="0" marginwidth="0">Google Form</a> to receive a quick response. Thank you!
 </pre>
-
 </details>   
 
 <details>
