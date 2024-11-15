@@ -68,7 +68,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
 <br>
-# ![Garmetik Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Garmetik)
+![Garmetik Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Garmetik)
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
