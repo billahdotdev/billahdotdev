@@ -89,3 +89,15 @@ A simple, comfortable, and stylish t-shirt for everyday wear.
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+
+### T-Shirt
+<img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
+
+**Price:** $10  
+A simple, comfortable, and stylish t-shirt for everyday wear.  
+
+<a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+</a>
+
+</div>
