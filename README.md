@@ -83,16 +83,3 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
-### Notes:
-- The **banner image** will span 100% of the width at the top of your README.
-- Clicking the **"View Product"** link will open a larger version of the product image in a new tab. Replace `https://via.placeholder.com/600x600` with the URL to the larger image of your product.
-- The **WhatsApp button** links to a chat for product inquiries.
-
----
-
-### How It Works:
-1. The **banner** will be displayed as a full-width image.
-2. Clicking **"View Product"** on any product will open the larger product image in a new browser tab.
-3. This solution is mobile-responsive because the banner is set to `100%` width.
-
-Let me know if you need further modifications!
