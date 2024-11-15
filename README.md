@@ -83,25 +83,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 - [![Chat on WhatsApp](https://img.shields.io/badge/Order%20on-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi!%20I%20want%20to%20order%20the%20Classic%20White%20Tee.)
   <br>
   <br>
-  <div style="width: 200px; margin: 10px;">
-    https://images.unsplash.com/photo-1527181467037-80564ba4ac51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVlfGVufDB8fDB8fHww>
-    <div style="text-align: center;">
-      <strong>Python Men's T-shirt (PT)</strong>
-      <br>
-      Fabric: Polyester
-      <br>
-      Colors: Red, Blue, Green
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-    <a href="https://wa.me/15551234567" target="_blank">
-    <button>
-        Chat on WhatsApp
-    </button>
-</a>
-  </div>
+  
   <br>
   <br>
   <div style="width: 200px; margin: 10px;">
