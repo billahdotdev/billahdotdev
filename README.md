@@ -82,7 +82,7 @@ Welcome to **[Garmetik](https://garmentik.com)**, your go-to store for affordabl
   <p><strong>Price:</strong> $15</p>
   <p>A simple, comfortable, and stylish t-shirt for everyday wear.</p>
   <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button"> 
   </a>
 </div>
 
