@@ -86,6 +86,50 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
   
   <br>
   <br>
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x400?text=Classic+White+Tee" alt="Classic White Tee" width="200"><br>
+      <strong>Classic White Tee</strong><br>
+      **Price:** $15<br>
+      **Sizes:** S, M, L, XL<br>
+      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.)
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x400?text=Graphic+Black+Tee" alt="Graphic Black Tee" width="200"><br>
+      <strong>Graphic Black Tee</strong><br>
+      **Price:** $20<br>
+      **Sizes:** S, M, L, XL, XXL<br>
+      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x400?text=Vintage+Grey+Tee" alt="Vintage Grey Tee" width="200"><br>
+      <strong>Vintage Grey Tee</strong><br>
+      **Price:** $18<br>
+      **Sizes:** M, L, XL<br>
+      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey%20Tee.)
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x400?text=Your+Custom+Tee" alt="Custom Tee" width="200"><br>
+      <strong>Custom Tee</strong><br>
+      **Price:** Contact us<br>
+      **Sizes:** S, M, L, XL, XXL<br>
+      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20creating%20a%20Custom%20Tee.)
+    </td>
+  </tr>
+</table>
+
+
+
+
+<br>
+<br>
+<br>
   <div style="width: 200px; margin: 10px;">
     <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
     <div style="text-align: center;">
