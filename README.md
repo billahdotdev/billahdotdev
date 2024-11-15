@@ -67,12 +67,8 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
-  # ![Garmetik Banner](https://via.placeholder.com/1200x400/4682B4/FFFFFF?text=Welcome+to+Garmetik)
-
-Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
-
----
-# ![Garmetik Banner](https://via.placeholder.com/400x1200/4682B4/FFFFFF?text=Welcome+to+Garmetik)
+ 
+# ![Garmetik Banner](https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D)
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
@@ -87,19 +83,6 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
-### Notes:
-- Replace the placeholder banner URL (`https://via.placeholder.com/400x1200/...`) with your own vertical banner image URL later.
-- The placeholder image currently says "Welcome to Garmetik" for demonstration purposes.
 
----
-
-This setup will now display your **vertical banner** at the top of the README, followed by the product details and WhatsApp buttons.
-
-### Example of a vertical banner with dimensions like `400x1200` will appear as follows:
-
-- The image will take up more vertical space, allowing for a top-to-bottom style as requested.
-- You can modify the image’s height and width later to fit your design.
-
-Let me know if you need help with anything else!
 
 
