@@ -65,6 +65,17 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </pre>
 </details>   
 
+
+
+
+
+
+
+
+
+<br />
+<br />
+
 <details>
 <summary><strong>Shop [UNDER CONSTRUCTION!]</strong></summary>    
 <br>
