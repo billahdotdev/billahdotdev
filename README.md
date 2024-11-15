@@ -76,13 +76,45 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 
 
+# 🛍️ T-Shirt Store
+
 ## 👕 Our Products
 
-| Product | Description | WhatsApp |
-|---------|-------------|----------|
-| ![Classic White Tee](https://via.placeholder.com/150x150?text=Classic+White+Tee) <br> **Classic White Tee** <br> **Price:** $15 <br> **Sizes:** S, M, L, XL | A timeless white T-shirt made from 100% organic cotton. Perfect for casual wear. | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.) |
-| ![Graphic Black Tee](https://via.placeholder.com/150x150?text=Graphic+Black+Tee) <br> **Graphic Black Tee** <br> **Price:** $20 <br> **Sizes:** S, M, L, XL, XXL | A stylish black T-shirt with bold graphic prints. Stand out in the crowd! | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.) |
-| ![Vintage Grey Tee](https://via.placeholder.com/150x150?text=Vintage+Grey+Tee) <br> **Vintage Grey Tee** <br> **Price:** $18 <br> **Sizes:** M, L, XL | A soft and comfortable grey T-shirt with a vintage vibe. Ideal for everyday wear. | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey%20Tee.) |
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x300?text=Classic+White+Tee" alt="Classic White Tee" width="300"><br>
+      <strong>Classic White Tee</strong><br>
+      **Price:** $15<br>
+      **Sizes:** S, M, L, XL<br>
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x300?text=Graphic+Black+Tee" alt="Graphic Black Tee" width="300"><br>
+      <strong>Graphic Black Tee</strong><br>
+      **Price:** $20<br>
+      **Sizes:** S, M, L, XL, XXL<br>
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x300?text=Vintage+Grey+Tee" alt="Vintage Grey Tee" width="300"><br>
+      <strong>Vintage Grey Tee</strong><br>
+      **Price:** $18<br>
+      **Sizes:** M, L, XL<br>
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey+Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
