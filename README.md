@@ -74,7 +74,7 @@ Welcome to **[Garmetik](https://garmentik.com)**, your go-to store for affordabl
 ---
 
 ## Products
-
+  
 ### Classic T-Shirt
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
   <img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
