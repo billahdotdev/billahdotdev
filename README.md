@@ -68,7 +68,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
  
-# ![Garmetik Banner](https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D)
+# <img src="https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D" alt="Garmetik Banner" style="width:100%;">
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
@@ -83,6 +83,10 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
+### Notes:
+- The `<img>` tag with `style="width:100%;"` will ensure the banner spans the full width of the screen, regardless of the viewer's device size.
+- You can replace the image URL with your own image URL as needed.
 
+---
 
-
+This method will make the banner image **100% width**, ensuring it adapts to the screen size properly. Let me know if you need further adjustments!
