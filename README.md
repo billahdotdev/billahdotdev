@@ -78,4 +78,8 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
-| [![T-Shirt](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=150&auto=format&fit=crop&q=60)](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| [![T-Shirt](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=150&auto=format&fit=crop&q=60)](#classic-t-shirt) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#classic-t-shirt) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| [![Hoodie](https://via.placeholder.com/150)](#cozy-hoodie) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](#cozy-hoodie) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
+
+---
+
