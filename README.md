@@ -77,42 +77,24 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 
 # 🛍️ T-Shirt Store
 
-Welcome to our **T-Shirt Store**! Discover our latest collection below. Click the WhatsApp button to connect with us directly about a product you’re interested in!
-
----
-
 ## 👕 Our Products
 
-### Classic White Tee
-<img src="https://example.com/path-to-your-image1.jpg" alt="Classic White Tee" width="300">
+### Java Men's T-shirt (JT)
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Java Men's T-shirt" style="width: 80%; max-width: 600px;">
+</div>
 
-**Price:** $15  
-**Sizes:** S, M, L, XL  
-A timeless white T-shirt made from 100% organic cotton. Perfect for casual wear.
+#### Product Details:
+- **Fabric**: Cotton Blend
+- **Colors**: Navy, Maroon, Olive, White
+- **Size**: S, M, L, XL
+- **Price**: $0.00 (Placeholder price)
+- **Quantity Available**: 50 units (Update as per availability)
 
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.)
+#### Contact Seller
+If you're interested in purchasing or have any questions, click the WhatsApp button below:
 
----
-
-### Graphic Black Tee
-<img src="https://example.com/path-to-your-image2.jpg" alt="Graphic Black Tee" width="300">
-
-**Price:** $20  
-**Sizes:** S, M, L, XL, XXL  
-A stylish black T-shirt with bold graphic prints. Stand out in the crowd!
-
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.)
-
----
-
-### Vintage Grey Tee
-<img src="https://example.com/path-to-your-image3.jpg" alt="Vintage Grey Tee" width="300">
-
-**Price:** $18  
-**Sizes:** M, L, XL  
-A soft and comfortable grey T-shirt with a vintage vibe. Ideal for everyday wear.
-
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey+Tee.)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Java%20Men's%20T-shirt%20(JT).)
 
 ---
 
