@@ -74,28 +74,18 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
-## Products
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
 
 ### Classic T-Shirt
-![Classic T-Shirt](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60)
+<img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
 
 **Price:** $15  
 A simple, comfortable, and stylish t-shirt for everyday wear.  
 
-[![View Product](https://img.shields.io/badge/View%20Full-Image-blue?style=for-the-badge)](https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60)  
-[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt)
+<a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+</a>
 
----
+</div>
 
-### Cozy Hoodie
-![Cozy Hoodie](https://via.placeholder.com/600x600)
-
-**Price:** $30  
-Perfect for chilly days. Stay warm and stylish!  
-
-[![View Product](https://img.shields.io/badge/View%20Full-Image-blue?style=for-the-badge)](https://via.placeholder.com/600x600)  
-[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie)
-
-
-
- 
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
