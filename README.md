@@ -104,6 +104,12 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
       Size: S, M, L, XL
       <br>
       Price: $0.00
+      <a href="https://wa.me/15551234567" target="_blank">
+    <button style="background-color: #25D366; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        Chat on WhatsApp
+    </button>
+</a>
+
     </div>
   </div>
   <br>
