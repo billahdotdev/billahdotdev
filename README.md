@@ -77,45 +77,81 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 
 # 🛍️ T-Shirt Store
 
-Welcome to our **T-Shirt Store**! Browse our amazing products below. If you're interested, click the **WhatsApp** button to chat directly with us.
+Welcome to our **T-Shirt Store**! Browse through our product categories below and click to view more.
 
 ---
 
-## 👕 Our Products
+## 📑 Table of Contents
 
-### Java Men's T-shirt (JT)
+- [Programming Tee](#programming-tee)
+- [Plain Tee](#plain-tee)
+- [Exclusive Tee](#exclusive-tee)
+
+---
+
+## 👕 Programming Tee
+
+Explore our programming-themed T-shirts for developers and tech enthusiasts!
+
+### Product 1: JavaScript Lover Tee
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Java Men's T-shirt" style="width: 100%; max-width: 400px; border-radius: 10px; object-fit: cover;">
+    <img src="https://via.placeholder.com/400x400.png?text=JavaScript+Lover+Tee" alt="JavaScript Lover Tee" style="width: 100%; max-width: 400px; border-radius: 10px; object-fit: cover;">
 </div>
 
-### Product Details:
+#### Product Details:
 - **Fabric**: Cotton Blend
-- **Colors Available**: Navy, Maroon, Olive, White
+- **Colors Available**: Blue, Black, Grey
 - **Size**: S, M, L, XL
-- **Price**: $25.00
+- **Price**: $20.00
 - **Quantity Available**: 50 units
 
 #### Interested? Contact Seller via WhatsApp:
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Java%20Men's%20T-shirt%20(JT).)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20JavaScript+Lover+Tee.)
 
 ---
 
-### Another Example Product (Mock-up)
+## 👕 Plain Tee
+
+Simple and versatile plain tees for everyday wear.
+
+### Product 2: Classic White Tee
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x400.png?text=Product+Image" alt="Product Image" style="width: 100%; max-width: 400px; border-radius: 10px; object-fit: cover;">
+    <img src="https://via.placeholder.com/400x400.png?text=Classic+White+Tee" alt="Classic White Tee" style="width: 100%; max-width: 400px; border-radius: 10px; object-fit: cover;">
 </div>
 
-### Product Details:
-- **Fabric**: Organic Cotton
-- **Colors Available**: Black, Grey, White
+#### Product Details:
+- **Fabric**: 100% Organic Cotton
+- **Colors Available**: White, Black
 - **Size**: S, M, L, XL
-- **Price**: $20.00
-- **Quantity Available**: 30 units
+- **Price**: $15.00
+- **Quantity Available**: 100 units
 
 #### Interested? Contact Seller via WhatsApp:
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Organic+Cotton+T-shirt.)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic+White+Tee.)
+
+---
+
+## 👕 Exclusive Tee
+
+Our exclusive T-shirts with limited edition designs.
+
+### Product 3: Limited Edition Neon Tee
+
+<div align="center">
+    <img src="https://via.placeholder.com/400x400.png?text=Limited+Edition+Neon+Tee" alt="Limited Edition Neon Tee" style="width: 100%; max-width: 400px; border-radius: 10px; object-fit: cover;">
+</div>
+
+#### Product Details:
+- **Fabric**: Premium Cotton
+- **Colors Available**: Neon Yellow, Neon Pink
+- **Size**: M, L, XL
+- **Price**: $30.00
+- **Quantity Available**: 20 units
+
+#### Interested? Contact Seller via WhatsApp:
+[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Limited+Edition+Neon+Tee.)
 
 ---
 
@@ -125,108 +161,6 @@ For custom orders, bulk inquiries, or collaborations:
 📱 **WhatsApp:** [Chat Now](https://wa.me/15551234567)  
 📧 **Email:** [contact@example.com](mailto:contact@example.com)
 
----
-
-
-
-
-<br>
-<br>
-<br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Java Men's T-shirt (JT)</strong>
-      <br>
-      Fabric: Cotton Blend
-      <br>
-      Colors: Navy, Maroon, Olive, White 
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
- <br>
-  <br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Another T-shirt (AT)</strong>
-      <br>
-      Fabric: Cotton
-      <br>
-      Colors: Blue, Green, Yellow
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
- <br>
-  <br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Yet Another T-shirt (YAT)</strong>
-      <br>
-      Fabric: Polyester
-      <br>
-      Colors: Red, Yellow, Orange
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
- <br>
-  <br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>And Another T-shirt (AAT)</strong>
-      <br>
-      Fabric: Cotton Blend
-      <br>
-      Colors: Black, White, Gray
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
- <br>
-  <br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Cool T-shirt (CT)</strong>
-      <br>
-      Fabric: Polyester Blend
-      <br>
-      Colors: Blue, Green, Purple
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
- <br>
-  <br>
-  <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Awesome T-shirt (AT)</strong>
-      <br>
-      Fabric: Cotton
-      <br>
-      Colors: Red, White, Blue
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
  <br>
   <br>
   <div style="width: 200px; margin: 10px;">
