@@ -131,41 +131,45 @@ For custom orders, bulk inquiries, or collaborations:
 
 
 
-<table>
+# 🛍️ T-Shirt Store
+
+## 👕 Our Products
+
+<div align="center">
+
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x400?text=Classic+White+Tee" alt="Classic White Tee" width="200"><br>
+    <td align="center" width="33%">
+      <img src="https://example.com/path-to-your-image1.jpg" alt="Classic White Tee" width="300"><br>
       <strong>Classic White Tee</strong><br>
       **Price:** $15<br>
       **Sizes:** S, M, L, XL<br>
-      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.)
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x400?text=Graphic+Black+Tee" alt="Graphic Black Tee" width="200"><br>
+    <td align="center" width="33%">
+      <img src="https://example.com/path-to-your-image2.jpg" alt="Graphic Black Tee" width="300"><br>
       <strong>Graphic Black Tee</strong><br>
       **Price:** $20<br>
       **Sizes:** S, M, L, XL, XXL<br>
-      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.)
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x400?text=Vintage+Grey+Tee" alt="Vintage Grey Tee" width="200"><br>
+    <td align="center" width="33%">
+      <img src="https://example.com/path-to-your-image3.jpg" alt="Vintage Grey Tee" width="300"><br>
       <strong>Vintage Grey Tee</strong><br>
       **Price:** $18<br>
       **Sizes:** M, L, XL<br>
-      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey%20Tee.)
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x400?text=Your+Custom+Tee" alt="Custom Tee" width="200"><br>
-      <strong>Custom Tee</strong><br>
-      **Price:** Contact us<br>
-      **Sizes:** S, M, L, XL, XXL<br>
-      [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20creating%20a%20Custom%20Tee.)
+      <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey+Tee.">
+        <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp">
+      </a>
     </td>
   </tr>
 </table>
 
+</div>
 
 
 
