@@ -87,7 +87,7 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
   </a>
 </div>
 
----
+
 
 ### Cozy Hoodie
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
