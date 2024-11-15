@@ -81,7 +81,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 ### **Programming Tees**
 #### JavaScript Lover Tee
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1527181467037-80564ba4ac51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmclMjB0ZWV8ZW58MHx8MHx8fDA%3D" alt="JavaScript Lover Tee" style="border-radius: 10px; max-width: 500px;">
+  <img src="https://images.unsplash.com/photo-1527181467037-80564ba4ac51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmclMjB0ZWV8ZW58MHx8MHx8fDA%3D" alt="JavaScript Lover Tee" style="border-radius: 10px; max-width: 80%;">
 </div>
 <p align="center"><strong>Price:</strong> $20.00</p>
 
