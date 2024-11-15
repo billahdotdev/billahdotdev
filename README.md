@@ -78,7 +78,7 @@ Welcome to **[Garmetik](https://garmentik.com)**, your go-to store for affordabl
 ### Classic T-Shirt
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
   <img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
-  <h3 style="margin-top: 100px;">Classic T-Shirt</h3>
+  <h3 style="margin-top: 1000px;">Classic T-Shirt</h3>
   <p><strong>Price:</strong> $15</p>
   <p>A simple, comfortable, and stylish t-shirt for everyday wear.</p>
   <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
