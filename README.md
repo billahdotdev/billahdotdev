@@ -87,7 +87,7 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
   </a>
 </div>
 
-
+---
 
 ### Cozy Hoodie
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
@@ -99,3 +99,4 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
     <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
   </a>
 </div>
+---
