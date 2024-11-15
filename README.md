@@ -94,7 +94,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
   <br>
   <br>
   <div style="width: 200px; margin: 10px;">
-    <img src=https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D style="width: 100%;">
+    https://images.unsplash.com/photo-1527181467037-80564ba4ac51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVlfGVufDB8fDB8fHww>
     <div style="text-align: center;">
       <strong>Python Men's T-shirt (PT)</strong>
       <br>
