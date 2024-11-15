@@ -75,11 +75,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <br>
 
-# 🛍️ T-Shirt Store
 
-Welcome to our **T-Shirt Store**! Browse through our product categories below and click to view more.
-
----
 
 ## 📑 Table of Contents
 
