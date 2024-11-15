@@ -74,30 +74,28 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+## Products
 
 ### Classic T-Shirt
-<img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
-
-**Price:** $15  
-A simple, comfortable, and stylish t-shirt for everyday wear.  
-
-<a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
-</a>
-
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
+  <h3 style="margin-top: 10px;">Classic T-Shirt</h3>
+  <p><strong>Price:</strong> $15</p>
+  <p>A simple, comfortable, and stylish t-shirt for everyday wear.</p>
+  <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+  </a>
 </div>
 
+---
+
+### Cozy Hoodie
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-
-### T-Shirt
-<img src="https://images.unsplash.com/photo-1638109879065-10b4a3bf0360?w=600&auto=format&fit=crop&q=60" alt="Classic T-Shirt" style="width:100%; border-radius: 8px;">
-
-**Price:** $10  
-A simple, comfortable, and stylish t-shirt for everyday wear.  
-
-<a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
-</a>
-
+  <img src="https://via.placeholder.com/600x600" alt="Cozy Hoodie" style="width:100%; border-radius: 8px;">
+  <h3 style="margin-top: 10px;">Cozy Hoodie</h3>
+  <p><strong>Price:</strong> $30</p>
+  <p>Perfect for chilly days. Stay warm and stylish!</p>
+  <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+  </a>
 </div>
