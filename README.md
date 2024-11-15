@@ -70,7 +70,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
  
 # <img src="https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D" alt="Garmetik Banner" style="width:100%;">
 
-Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products at [garmentik.com](https://garmentik.com)!
+Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products at [garmentik.com](https://garmentik.com)
 
 ---
 
