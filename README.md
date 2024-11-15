@@ -83,7 +83,34 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 - [![Chat on WhatsApp](https://img.shields.io/badge/Order%20on-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi!%20I%20want%20to%20order%20the%20Classic%20White%20Tee.)
   <br>
   <br>
-  
+  # 🛍️ T-Shirt Store
+
+Welcome to our **T-Shirt Store**! Explore our stylish collection and contact us via WhatsApp with your interest.  
+
+---
+
+## 👕 Our Products
+
+| Product | Description | WhatsApp |
+|---------|-------------|----------|
+| ![Classic White Tee](https://via.placeholder.com/150x150?text=Classic+White+Tee) <br> **Classic White Tee** <br> **Price:** $15 <br> **Sizes:** S, M, L, XL | A timeless white T-shirt made from 100% organic cotton. Perfect for casual wear. | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic%20White%20Tee.) |
+| ![Graphic Black Tee](https://via.placeholder.com/150x150?text=Graphic+Black+Tee) <br> **Graphic Black Tee** <br> **Price:** $20 <br> **Sizes:** S, M, L, XL, XXL | A stylish black T-shirt with bold graphic prints. Stand out in the crowd! | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Graphic%20Black%20Tee.) |
+| ![Vintage Grey Tee](https://via.placeholder.com/150x150?text=Vintage+Grey+Tee) <br> **Vintage Grey Tee** <br> **Price:** $18 <br> **Sizes:** M, L, XL | A soft and comfortable grey T-shirt with a vintage vibe. Ideal for everyday wear. | [![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Vintage%20Grey%20Tee.) |
+
+---
+
+## 📬 Contact Us
+
+For custom orders, bulk inquiries, or collaborations:  
+📱 **WhatsApp:** [Chat Now](https://wa.me/15551234567)  
+📧 **Email:** [contact@example.com](mailto:contact@example.com)
+
+---
+
+### ❤️ Support Us
+
+Like our project? Give us a ⭐️ on GitHub!
+
   <br>
   <br>
 
