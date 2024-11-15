@@ -76,27 +76,6 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 
 
-
-## 👕 Our Products
-
-| Product | Description | WhatsApp |
-|---------|-------------|----------|
-| ![Classic White Tee](# 🛍️ T-Shirt Store
-
-Welcome to our **T-Shirt Store**! Explore our stylish collection and contact us via WhatsApp with your interest.  
-
----
-
-## 👕 Our Products
-
-| Product | Description | WhatsApp |
-|---------|-------------|----------|
-| ![Classic White Tee](# 🛍️ T-Shirt Store
-
-Welcome to our **T-Shirt Store**! Explore our stylish collection and contact us via WhatsApp with your interest.  
-
----
-
 ## 👕 Our Products
 
 | Product | Description | WhatsApp |
