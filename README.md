@@ -95,7 +95,7 @@ Explore our programming-themed T-shirts for developers and tech enthusiasts!
 </div>
 
 #### Product Details:
-- **Fabric**: Cotton Blend
+- **Fabric**: 100% Cotton
 - **Colors Available**: Blue, Black, Grey
 - **Size**: S, M, L, XL
 - **Price**: $20.00
