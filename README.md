@@ -194,24 +194,7 @@ For custom orders, bulk inquiries, or collaborations:
 <br>
 <br>
 
-### How to Order
 
-Ready to get your hands on these awesome products? Here's how:
-
-You can Fill up the [Order Form](https://www.google.com)
-
-Send a WhatsApp/messenger/Viber message with the following information:
-- Product name and Code(s)
--  Product Screenshot(s)
-- Quantity
-- Shipping address
-- Contact Details
-
-💸 We'll respond to confirm your order and provide payment instructions.
-
-Or You can buy directly from our  [garmentik](www.garmentik.com) website.
-
-Happy shopping! 🎁
 </details>      
 
 
