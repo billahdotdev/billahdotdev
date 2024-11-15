@@ -65,143 +65,94 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </pre>
 </details>   
 <details>
-<summary><strong>🚀 Welcome to GARMENTIK [UNDER CONSTRUCTION]</strong></summary>
+<summary><strong>🛒 GARMENTIK Product Showcase [UNDER CONSTRUCTION]</strong></summary>
 <br>
 
 <div align="center">
-  <h1>🌟 GARMENTIK Demo Site 🌟</h1>
-  <p>🛍️ Discover unique, stylish, and affordable fashion. Original products will be uploaded soon. Stay tuned!</p>
+  <img src="https://via.placeholder.com/800x200.png?text=GARMENTIK+-+Affordable+Fashion" alt="GARMENTIK Banner" style="border-radius: 10px;">
+  <h1>Welcome to GARMENTIK</h1>
+  <p>Your one-stop shop for stylish, high-quality T-shirts at unbeatable prices. New designs coming soon!</p>
 </div>
 
 ---
 
-## 📑 Table of Contents
-1. [👕 Programming Tees](#-programming-tees)
-2. [👕 Plain Tees](#-plain-tees)
-3. [👕 Exclusive Tees](#-exclusive-tees)
-4. [📬 Contact Us](#-contact-us)
+## 👕 Featured Products
 
----
-
-## 👕 Programming Tees
-Explore our collection of programming-themed T-shirts designed for developers and tech enthusiasts.
-
-### **JavaScript Lover Tee**
+### **Programming Tees**
+#### JavaScript Lover Tee
 <div align="center">
-  <img src="https://via.placeholder.com/400x400.png?text=JavaScript+Lover+Tee" 
-       alt="JavaScript Lover Tee" 
-       style="border-radius: 10px; object-fit: cover;">
+  <img src="https://via.placeholder.com/500x500.png?text=JavaScript+Lover+Tee" alt="JavaScript Lover Tee" style="border-radius: 10px; max-width: 500px;">
+</div>
+<p align="center"><strong>Price:</strong> $20.00</p>
+
+**Details:**
+- Fabric: 100% Cotton  
+- Colors: Blue, Black, Grey  
+- Sizes: S, M, L, XL  
+- Stock: 50 units  
+
+<div align="center">
+  <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20JavaScript+Lover+Tee" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp"> Contact to Order
+  </a>
 </div>
 
-- **Fabric:** 100% Cotton  
-- **Colors:** Blue, Black, Grey  
-- **Sizes:** S, M, L, XL  
-- **Price:** $20.00  
-- **Stock Available:** 50 units  
-
-**📩 Order Now:**  
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20JavaScript+Lover+Tee)
-
 ---
 
-## 👕 Plain Tees
-Versatile plain T-shirts perfect for casual wear.
-
-### **Classic White Tee**
+### **Plain Tees**
+#### Classic White Tee
 <div align="center">
-  <img src="https://via.placeholder.com/400x400.png?text=Classic+White+Tee" 
-       alt="Classic White Tee" 
-       style="border-radius: 10px; object-fit: cover;">
+  <img src="https://via.placeholder.com/500x500.png?text=Classic+White+Tee" alt="Classic White Tee" style="border-radius: 10px; max-width: 500px;">
+</div>
+<p align="center"><strong>Price:</strong> $15.00</p>
+
+**Details:**
+- Fabric: 100% Organic Cotton  
+- Colors: White, Black  
+- Sizes: S, M, L, XL  
+- Stock: 100 units  
+
+<div align="center">
+  <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic+White+Tee" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp"> Contact to Order
+  </a>
 </div>
 
-- **Fabric:** 100% Organic Cotton  
-- **Colors:** White, Black  
-- **Sizes:** S, M, L, XL  
-- **Price:** $15.00  
-- **Stock Available:** 100 units  
-
-**📩 Order Now:**  
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Classic+White+Tee)
-
 ---
 
-## 👕 Exclusive Tees
-Limited edition designs that stand out.
-
-### **Limited Edition Neon Tee**
+### **Exclusive Tees**
+#### Limited Edition Neon Tee
 <div align="center">
-  <img src="https://via.placeholder.com/400x400.png?text=Limited+Edition+Neon+Tee" 
-       alt="Limited Edition Neon Tee" 
-       style="border-radius: 10px; object-fit: cover;">
+  <img src="https://via.placeholder.com/500x500.png?text=Limited+Edition+Neon+Tee" alt="Limited Edition Neon Tee" style="border-radius: 10px; max-width: 500px;">
+</div>
+<p align="center"><strong>Price:</strong> $30.00</p>
+
+**Details:**
+- Fabric: Premium Cotton  
+- Colors: Neon Yellow, Neon Pink  
+- Sizes: M, L, XL  
+- Stock: 20 units  
+
+<div align="center">
+  <a href="https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Limited+Edition+Neon+Tee" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/00e676/whatsapp.png" alt="WhatsApp"> Contact to Order
+  </a>
 </div>
 
-- **Fabric:** Premium Cotton  
-- **Colors:** Neon Yellow, Neon Pink  
-- **Sizes:** M, L, XL  
-- **Price:** $30.00  
-- **Stock Available:** 20 units  
+---
 
-**📩 Order Now:**  
-[![WhatsApp](https://img.icons8.com/ios-filled/50/00e676/whatsapp.png)](https://wa.me/15551234567?text=Hi!%20I%20am%20interested%20in%20the%20Limited+Edition+Neon+Tee)
+## 📞 Contact Us
+<div align="center">
+  <p>For bulk orders, inquiries, or collaborations:</p>
+  <p>📱 <strong>WhatsApp:</strong> <a href="https://wa.me/15551234567" target="_blank">Chat Now</a></p>
+  <p>📧 <strong>Email:</strong> <a href="mailto:contact@example.com">contact@example.com</a></p>
+</div>
 
 ---
 
-## 📬 Contact Us
-Have questions or special requests? Let’s connect!  
-📱 **WhatsApp:** [Chat with us](https://wa.me/15551234567)  
-📧 **Email:** [contact@example.com](mailto:contact@example.com)
-
 <div align="center">
-  <h3>Thank you for choosing GARMENTIK! 🌐</h3>
+  <h3>Thank you for visiting GARMENTIK! 🌟</h3>
+  <p>Stay connected for updates and new arrivals!</p>
 </div>
 
 </details>
-
-
-
-
-
-
-
-
-
-<br />
-<br />
-
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
