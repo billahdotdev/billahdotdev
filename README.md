@@ -74,7 +74,7 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 ---
 
-## Products
+## Product Gallery
 
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
@@ -82,5 +82,6 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 | [![Hoodie](https://via.placeholder.com/150)](#cozy-hoodie) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](#cozy-hoodie) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
 
 ---
+
 
  
