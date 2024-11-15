@@ -68,7 +68,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <summary><strong>SHOP
   [UNDER CONSTRUCTION]</strong></summary>
  
-# <img src="https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D" alt="Garmetik Banner" style="width:100%;">
+# ![Garmetik Banner](https://images.unsplash.com/photo-1624396963238-df0e48367ff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D)
 
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
@@ -78,14 +78,20 @@ Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Ch
 
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
-| ![T-Shirt](https://via.placeholder.com/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| ![T-Shirt](https://via.placeholder.com/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](https://via.placeholder.com/600) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| ![Hoodie](https://via.placeholder.com/150) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](https://via.placeholder.com/600) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
 
 ---
 
 ### Notes:
-- The `<img>` tag with `style="width:100%;"` will ensure the banner spans the full width of the screen, regardless of the viewer's device size.
-- You can replace the image URL with your own image URL as needed.
+- **View Product**: When users click on "View Product," it will open the larger image in a new tab.
+- You can replace `https://via.placeholder.com/600` with the URL to the full-size image of your product.
+- For a smoother experience, ensure the images used are high-resolution for better quality when viewed in full size.
 
 ---
 
-This method will make the banner image **100% width**, ensuring it adapts to the screen size properly. Let me know if you need further adjustments!
+### How It Works:
+- **When a user clicks "View Product"**: The URL will open in a new browser tab (depending on the browser settings), showing the large version of the product image.
+- **Mobile-Friendly**: This solution will work well on both mobile and desktop browsers, as the link opens a new page, so users can zoom in on the image.
+
+Let me know if you need any additional tweaks!
