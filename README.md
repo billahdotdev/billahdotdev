@@ -72,11 +72,34 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
 
 ---
+# ![Garmetik Banner](https://via.placeholder.com/400x1200/4682B4/FFFFFF?text=Welcome+to+Garmetik)
+
+Welcome to **Garmetik**, your go-to store for affordable and stylish fashion. Check out our latest products below and reach out to us for any inquiries!
+
+---
 
 ## Products
 
 | Product Image       | Product Details          | Contact Us           |
 |---------------------|--------------------------|----------------------|
-| ![T-Shirt](https://images.unsplash.com/photo-1527181467037-80564ba4ac51?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVlfGVufDB8fDB8fHww) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| ![T-Shirt](https://via.placeholder.com/150) | **Classic T-Shirt**  \n Price: $15  \n A simple, comfortable, and stylish t-shirt for everyday wear. [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt) |
+| ![Hoodie](https://via.placeholder.com/150) | **Cozy Hoodie**  \n Price: $30  \n Perfect for chilly days. Stay warm and stylish! [View Product](#) | [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie) |
+
+---
+
+### Notes:
+- Replace the placeholder banner URL (`https://via.placeholder.com/400x1200/...`) with your own vertical banner image URL later.
+- The placeholder image currently says "Welcome to Garmetik" for demonstration purposes.
+
+---
+
+This setup will now display your **vertical banner** at the top of the README, followed by the product details and WhatsApp buttons.
+
+### Example of a vertical banner with dimensions like `400x1200` will appear as follows:
+
+- The image will take up more vertical space, allowing for a top-to-bottom style as requested.
+- You can modify the image’s height and width later to fit your design.
+
+Let me know if you need help with anything else!
 
 
