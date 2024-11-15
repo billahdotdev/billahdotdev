@@ -89,8 +89,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
       <br>
       Price: $0.00
     </div>
-    [![Chat on WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/15551234567)
-
+  
   </div>
   <br>
   <br>
