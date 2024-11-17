@@ -4,30 +4,26 @@
 // Welcome to my world!                                                                  
 
 const displayAboutMe = () => {
-  const aboutMe = {
-    name: "Masum Billah",
-    intro: "I'm a full-stack web developer, bringing digital dreams to life.",
-    languages: ["JavaScript", "TypeScript"],
-    coreTechnologies: ["MongoDB", "Express", "React", "Node"],
-    tools: ["Git", "Material UI", "Figma", "Inkscape", "and more..."],
-    interests: ["Web Technologies", "Reading", "Traveling"], 
-    locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
-    webAddress: "https://billah.dev", 
-    stayConnected: {
-      x: "/billahdotdev", 
-      linkedin: "/billahdotdev", 
-      search: "billahdotdev",
-    },
-    contact: {
-      email: "billahdotdev@gmail.com",
-      phone: ["+639156015542", "+8801713401889"], 
-    }
-  };
+    const aboutMe = {
+        name: 'Masum Billah',
+        intro: "I'm a full-stack web developer, bringing digital dreams to life.",
+        languages: ['JavaScript', 'TypeScript'],
+        coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
+        tools: ['Git', 'Material UI', 'Figma', 'Inkscape', 'and more...'],
+        interests: ['Web Technologies', 'Reading', 'Traveling'],
+        locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
+        webAddress: 'https://billah.dev',
+        contact: {
+            email: 'contact@billah.dev',
+            phone: ['+xx-xxxx-xxxx'],
+            socialMediaHandle: 'billahdotdev',
+        },
+    };
 
-  console.log(aboutMe);
-};  
+    console.log(aboutMe);
+};
 
-displayAboutMe();   
+displayAboutMe();
 
 ```
      
