@@ -15,7 +15,7 @@ const displayAboutMe = () => {
         webAddress: 'https://billah.dev',
         contact: {
             email: 'contact@billah.dev',
-            phone: ['+xx-xxxx-xxxx'],
+            phone: ['+8801713401889', '+639156015542'],
             socialMediaHandle: 'billahdotdev',
         },
     };
