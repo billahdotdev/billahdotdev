@@ -14,7 +14,7 @@ const displayAboutMe = () => {
         locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
         webAddress: 'https://billah.dev',
         contact: {
-            email: 'contact@billah.dev',
+            email: 'billahdotdev@gmail.com',
             phone: ['+8801713401889', '+639156015542'],
             socialMediaHandle: 'billahdotdev',
         },
