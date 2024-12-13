@@ -69,7 +69,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 Welcome to **[Garmetik](https://garmentik.com)**, your go-to store for affordable and stylish fashion.
 ---
 
-## Products
+## Products 
   
 ### Classic T-Shirt
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
