@@ -69,8 +69,8 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 **Welcome to [GARMENTIK - Trendy & Affordable Clothing | Made in Bangladesh.](https://garmentik.com)** 
 
 We offer trendy, affordable, and sustainable clothing crafted with 100% organic cotton and premium materials. Our collection features graphic t-shirts, printed t-shirts, and polo shirts designed for modern, fashion-conscious individuals. Shop exclusively online for stylish apparel proudly made in Bangladesh. Select your preferred T-shirt from the options below.
----
 
+---
   
 ### Classic T-Shirt
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
