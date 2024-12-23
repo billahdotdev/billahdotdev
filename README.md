@@ -55,7 +55,7 @@ on a journey of modern web mastery at the University of Helsinki.
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
 Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
 
-The slots for December and January are fully booked. Availability for February will be announced in January on my x account.   
+The slots for December'24 and January'25 are fully booked. Availability for February will be announced in January on my x account.   
 <br />
 For T-shirt Business inquiries, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb0upJO89fZXlB3xTG6W1qxsRAFUNTM74A/viewform?embedded=true" width="640" height="1442" frameborder="0" marginheight="0" marginwidth="0">Google Form</a> to receive a quick response. Thank you!
 </pre>
