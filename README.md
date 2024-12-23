@@ -75,9 +75,14 @@ We offer trendy, affordable, and sustainable clothing crafted with 100% organic 
 ### Classic T-Shirt
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
   <h3 style="font-size: 1.5rem; margin-top: 0;">Classic T-Shirt</h3>
-  <button style="background: teal; color: white; padding: 12px 20px; border: none; border-radius: 24px; font-size: 1rem; font-weight: bold; cursor: pointer; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-    WhatsApp Us
-  </button>
+  
+  <!-- WhatsApp Logo -->
+  <a href="#" style="display: inline-block; text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" 
+         style="width: 48px; height: 48px; cursor: pointer;">
+  </a>
+  
+  <!-- Website Link -->
   <p style="margin-top: 16px; font-size: 0.9rem; color: #555;">
     Visit our website: <a href="https://garmntk.com" style="color: teal; text-decoration: none; font-weight: bold;">Garmentik.com</a>
   </p>
