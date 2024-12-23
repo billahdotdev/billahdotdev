@@ -78,11 +78,19 @@ We offer trendy, affordable, and sustainable clothing crafted with 100% organic 
   <h3 style="font-size: 1.5rem; margin-top: 0;">Classic T-Shirt</h3>
   <p style="font-size: 1rem; color: #555;"><strong>Price:</strong> $15</p>
   <p style="font-size: 0.9rem; color: #777; line-height: 1.5;">A simple, comfortable, and stylish t-shirt for everyday wear.</p>
+  
+  <!-- WhatsApp Button -->
   <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Classic%20T-Shirt" 
      style="display: inline-block; text-decoration: none; background: teal; color: white; padding: 12px 20px; border-radius: 24px; font-size: 1rem; font-weight: bold; text-align: center; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     Message Us on WhatsApp
   </a>
+  
+  <!-- Garmentik Link -->
+  <p style="margin-top: 16px; font-size: 0.9rem; color: #555;">
+    Visit our website: <a href="https://garmntk.com" style="color: teal; text-decoration: none; font-weight: bold;">Garmentik.com</a>
+  </p>
 </div>
+
 
 
 ---
