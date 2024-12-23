@@ -71,13 +71,11 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 We offer trendy, affordable, and sustainable clothing crafted with 100% organic cotton and premium materials. Our collection features graphic t-shirts, printed t-shirts, and polo shirts designed for modern, fashion-conscious individuals. Shop exclusively online for stylish apparel proudly made in Bangladesh. Select your preferred T-shirt from the options below.
 
 ---
-  
-### Classic T-Shirt
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 300px;">
   <h3 style="font-size: 1.5rem; margin-top: 0;">Classic T-Shirt</h3>
   
   <!-- WhatsApp Logo and Website Link -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 12px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
     <!-- WhatsApp Logo -->
     <a href="#" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" 
@@ -89,9 +87,7 @@ We offer trendy, affordable, and sustainable clothing crafted with 100% organic 
     </a>
   </div>
 </div>
-
-
-
+  
 
 ---
 
