@@ -5,7 +5,7 @@
 const displayAboutMe = () => {
     const aboutMe = {
         name: 'Masum Billah',
-        intro: "I'm a web developer, bringing digital dreams to life.", // Corrected "an" to "a"
+        intro: "I'm a web developer, bringing digital dreams to life.",
         languages: ['JavaScript', 'TypeScript'],
         coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
         tools: ['Git', 'Material UI', 'Figma', 'Inkscape', 'and more...'],
