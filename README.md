@@ -1,11 +1,11 @@
 [![committers.top badge](https://user-badge.committers.top/bangladesh/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)             
                                                                                       
 ```javascript                                                                                               
-// Welcome to my world!                                                                                                                                                                                                                                                                                       
+// Welcome to my world!
 const displayAboutMe = () => {
     const aboutMe = {
         name: 'Masum Billah',
-        intro: "I'm an web developer, bringing digital dreams to life.",
+        intro: "I'm a web developer, bringing digital dreams to life.", // Corrected "an" to "a"
         languages: ['JavaScript', 'TypeScript'],
         coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
         tools: ['Git', 'Material UI', 'Figma', 'Inkscape', 'and more...'],
