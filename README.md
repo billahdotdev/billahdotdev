@@ -1,5 +1,5 @@
-[![Bangladesh](https://user-badge.committers.top/bangladesh/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)
-[![Philippines](https://user-badge.committers.top/philippines/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)   
+Bangladesh[![Bangladesh](https://user-badge.committers.top/bangladesh/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)
+Philippines[![Philippines](https://user-badge.committers.top/philippines/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)   
 
                                                                                       
 ```javascript                                                                                                  
