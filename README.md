@@ -7,7 +7,7 @@ const displayAboutMe = () => {
         intro: "I'm a web developer, bringing digital dreams to life.",
         languages: ['JavaScript', 'TypeScript'],
         coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
-        tools: ['Git', 'Material UI', 'Figma', 'Inkscape', 'and more...'],
+        tools: ['Git', 'TailwindCSS', 'Figma', 'Inkscape', 'and more...'],
         interests: ['Web Technologies', 'Reading', 'Traveling'],
         locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
         webAddress: 'https://billah.dev',
