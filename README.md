@@ -1,3 +1,4 @@
+<a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" target="_blank" style="display:inline-block;padding:12px 24px;background:#111;color:#0f0;text-decoration:none;border-radius:5px;font-weight:bold;font-family:monospace;">Get the Terminal Template</a>
                                                
 ```javascript                                                                                                          
 // Welcome to my world!                                                          
