@@ -88,7 +88,7 @@ We offer trendy, affordable, and sustainable clothing crafted with 100% organic 
 
 ---
 
-### Cozy Hoodie
+### Cozy Digital
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
   <img src="https://via.placeholder.com/600x600" alt="Cozy Hoodie" style="width:100%; border-radius: 8px;">
   <h3 style="margin-top: 10px;">Cozy Hoodie</h3>
