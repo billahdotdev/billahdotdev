@@ -60,7 +60,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 <summary><strong>SHOP</strong></summary>
  
-<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Garmetik Banner" style="width:100%;">](https://plus.unsplash.com/premium_photo-1673356301514-2cad91907f74?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+[<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Garmetik Banner" style="width:100%;">](https://plus.unsplash.com/premium_photo-1673356301514-2cad91907f74?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 **Welcome to [GARMENTIK - Trendy & Affordable Clothing | Made in Bangladesh.](https://garmentik.com)**  
 
