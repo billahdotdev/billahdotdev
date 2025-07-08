@@ -38,7 +38,7 @@ I am passionate about JavaScript and web technologies. Before the pandemic, I wa
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!           
 
-🎓 Certification:
+🎓 Credentials:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer   
 on a journey of modern web mastery at the University of Helsinki.    
 </pre>
