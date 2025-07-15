@@ -85,7 +85,7 @@ I build simple, purposeful digital products to help makers, developers, and free
   <p>Dark-mode personal portfolio with a hacker-style aesthetic. Ideal for devs who like bold design and clean code.</p>
   <p><strong>Tech:</strong> React + Vite</p>
   <p><strong>Price:</strong> $15</p>
-  <a href="[https://gumroad.billah.dev/l/hackervibe](https://billahdotdev.gumroad.com/l/hacker-terminal-website)" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
   </a>
 </div>
