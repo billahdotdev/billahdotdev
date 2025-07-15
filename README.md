@@ -103,7 +103,8 @@ I build simple, focused digital products to help developers, freelancers, and cr
 ---
 
 ### Explore More or Purchase at  
-**[My Gumroad Store](https://gumroad.billah.dev)**
+**[My Gumroad Store](https://gumroad.billah.dev)** – where I sell my creations.
 
 ### Want to Learn More About Me?  
-**[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator 
+**[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
+
