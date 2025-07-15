@@ -102,8 +102,8 @@ I build simple, focused digital products to help developers, freelancers, and cr
 
 ---
 
-### 👉 Explore More or Purchase at  
-🔗 **[gumroad.billah.dev](https://gumroad.billah.dev)**
+### Explore More or Purchase at  
+**[gumroad.billah.dev](https://gumroad.billah.dev)**
 
-### 🙋‍♂️ Want to Learn More About Me?  
-📌 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator • Solo Maker
+### Want to Learn More About Me?  
+**[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator 
