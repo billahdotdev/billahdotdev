@@ -107,7 +107,7 @@ I build simple, purposeful digital products to help makers, developers, and free
 ### 💬 Need something custom?
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;">
   <p>Looking for a custom landing page, personal site, or unique SVG icons?</p>
-  <a href="https://wa.me/+8801713401889?text=Hi%20Masum!%20I’d%20like%20to%20discuss%20a%20custom%20digital%20project." style="text-decoration: none;">
+  <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’d%20like%20to%20discuss%20a%20custom%20digital%20project." style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
   </a>
 </div>
