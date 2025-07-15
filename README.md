@@ -97,7 +97,7 @@ I build simple, purposeful digital products to help makers, developers, and free
   <p>Minimal, consistent SVG icons for websites, apps, and UI design. Lightweight and easy to customize.</p>
   <p><strong>Icons:</strong> 60+ | <strong>Format:</strong> SVG</p>
   <p><strong>Price:</strong> $1</p>
-  <a href="[https://gumroad.billah.dev/l/svglineicons](https://billahdotdev.gumroad.com/l/simple-line-svg-icons)" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
   </a>
 </div>
