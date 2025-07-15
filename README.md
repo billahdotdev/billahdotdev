@@ -59,32 +59,33 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </details>   
 <details>
 
-<summary><strong>SHOP</strong></summary>
+<summary><strong>🛍️ Digital Product Shop</strong></summary>
 
-[<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Banner" style="width:100%;">](https://billah.dev)
+<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
-**Hi, I'm Masum Billah — a web developer & digital creator.**  
-I build and sell practical, real-world digital products to help developers, freelancers, and creators move faster. Everything here is made with care, tested in real projects, and ready for you to use.
+### 👋 Hey, I’m Masum — a developer & digital creator.
+
+I build simple, useful digital products — templates, tools, and guides — based on real-world experience. Everything here is crafted to help creators, developers, and freelancers save time and move forward faster.
 
 ---
 
-### 🔥 Landing Page Template (React + Tailwind)
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h3 style="margin-top: 0;">Landing Page Template</h3>
-  <p><strong>Tech Stack:</strong> Vite + React + Tailwind CSS</p>
-  <p>Clean, fast, SEO-friendly template built to convert. Perfect for launching a product or service.</p>
+### ⚡️ Landing Page Template (React + Tailwind)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0;">Modern Landing Page Template</h3>
+  <p><strong>Tech:</strong> React, Tailwind CSS, Vite</p>
+  <p>Clean, fast, and fully responsive. Ideal for SaaS, portfolios, or personal projects.</p>
   <p><strong>Price:</strong> $9</p>
   <a href="https://gumroad.billah.dev/l/landing-template" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+    <img src="https://img.shields.io/badge/Get%20it%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy Now">
   </a>
 </div>
 
 ---
 
-### 📘 Freelancing Guide PDF – Get Started in 30 Days
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h3 style="margin-top: 0;">Start Freelancing in 30 Days (PDF Guide)</h3>
-  <p>Step-by-step roadmap to launch your freelancing career — written from my personal journey.</p>
+### 📘 Freelancing Starter Guide (PDF)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0;">Freelancing in 30 Days – Beginner PDF</h3>
+  <p>A practical guide to help you start freelancing with zero experience or budget. Based on my journey.</p>
   <p><strong>Pages:</strong> 28 | <strong>Price:</strong> $5</p>
   <a href="https://gumroad.billah.dev/l/freelance-guide" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download%20PDF-Gumroad-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
@@ -93,10 +94,10 @@ I build and sell practical, real-world digital products to help developers, free
 
 ---
 
-### 🧩 Website Template (Full Stack MERN)
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h3 style="margin-top: 0;">Full MERN Stack Website Template</h3>
-  <p>Modern UI with MongoDB, Express, React, and Node — ready for small businesses or portfolios.</p>
+### 🧩 Full Website Template (MERN Stack)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0;">MERN Stack Website Template</h3>
+  <p>Complete project setup with React, Node, Express & MongoDB. Great starting point for full-stack apps.</p>
   <p><strong>Price:</strong> $19</p>
   <a href="https://gumroad.billah.dev/l/mern-template" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
@@ -105,10 +106,10 @@ I build and sell practical, real-world digital products to help developers, free
 
 ---
 
-### 🎨 Developer SVG Icon Pack (100+ Icons)
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h3 style="margin-top: 0;">SVG Icon Set – Dev/Tech Focused</h3>
-  <p>Use these icons in dashboards, portfolios, presentations, or landing pages. Clean & minimal.</p>
+### 🎨 100+ Developer SVG Icons
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
+  <h3 style="margin-top: 0;">Developer Icon Set (SVG)</h3>
+  <p>Clean and minimal SVG icons for dashboards, landing pages, or portfolio projects.</p>
   <p><strong>Price:</strong> $3</p>
   <a href="https://gumroad.billah.dev/l/dev-icons" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download%20SVG-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
@@ -117,11 +118,12 @@ I build and sell practical, real-world digital products to help developers, free
 
 ---
 
-### 💬 Want Something Custom?
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; text-align:center;">
-  <p>Need a custom template, landing page, or personal branding help?</p>
-  <a href="https://wa.me/+8801713401889?text=Hi!%20I'm%20interested%20in%20a%20custom%20digital%20product." style="text-decoration: none;">
+### 💬 Need something custom?
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;">
+  <p>Want a custom landing page, branding help, or a unique digital product?</p>
+  <a href="https://wa.me/+8801713401889?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20template%20or%20project." style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp">
   </a>
 </div>
+
 
