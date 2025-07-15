@@ -77,7 +77,7 @@ Explore our digital products below:
   <p><strong>Tech Stack:</strong> Vite + React + Tailwind CSS</p>
   <p>Optimized for conversion and mobile-first. Use it to sell your product or service fast.</p>
   <p><strong>Price:</strong> $9</p>
-  <a href="https://gumroad.billah.dev/l/landing-template" style="text-decoration: none;">
+  <a href="https://gumroad.billah.dev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
