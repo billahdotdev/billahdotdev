@@ -73,7 +73,7 @@ I build simple, purposeful digital products to help makers, developers, and free
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
   <p>A clean and responsive landing page for launching soon-to-be-released projects. Built with modern web standards.</p>
   <p><strong>Price:</strong> $10</p>
-  <a href="https://gumroad.billah.dev/l/comingsoon" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
