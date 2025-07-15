@@ -58,33 +58,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </pre>
 </details>   
 <details>
-<summary><strong>SHOP</strong></summary>
- 
-[<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Garmetik Banner" style="width:100%;">](https://plus.unsplash.com/premium_photo-1673356301514-2cad91907f74?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-**Welcome to [GARMENTIK - Trendy & Affordable Clothing | Made in Bangladesh.](https://garmentik.com)**  
-
-
-We offer trendy, affordable, and sustainable clothing crafted with 100% organic cotton and premium materials. Our collection features graphic t-shirts, printed t-shirts, and polo shirts designed for modern, fashion-conscious individuals. Shop exclusively online for stylish apparel proudly made in Bangladesh. Select your preferred T-shirt from the options below.
-
----
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 300px;">
-  <h3 style="font-size: 1.5rem; margin-top: 0;">Classic T-Shirt</h3>
-  
-  <!-- WhatsApp Logo and Website Link -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <!-- WhatsApp Logo -->
-    <a href="#" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" 
-           style="width: 48px; height: 48px; cursor: pointer;">
-    </a>
-    <!-- Website Link -->
-    <a href="https://garmntk.com" style="color: teal; text-decoration: none; font-weight: bold; font-size: 1rem;">
-      Garmentik.com
-    </a>
-  </div>
-</div>
-  
 
 ---
 
