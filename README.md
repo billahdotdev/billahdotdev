@@ -60,42 +60,70 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 
 <summary><strong>SHOP</strong></summary>
- 
-[<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Garmetik Banner" style="width:100%;">](https://plus.unsplash.com/premium_photo-1673356301514-2cad91907f74?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-**Welcome to [GARMENTIK - Trendy & Affordable Clothing | Made in Bangladesh.](https://garmentik.com)**  
+[<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/465125047_895983512627469_4433322105522532923_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9ZRbetpz-K_ZL_2KNcQkff4s2cX0x1PJ_izZxfTHU8pmMml9UIvhp7JKaUMZi-B3nhqngqHj93iMI1M7IGpZa&_nc_ohc=PDM5npNkkqwQ7kNvgF7hGlQ&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&_nc_gid=ATEcSAE-G51NdEHYaPUSrni&oh=00_AYCCYBHmr0NB9fThJRx-cqf-_vqfTXJr2RUlcC6JyEbM4g&oe=676F79EB" alt="Garmentik Banner" style="width:100%;">](https://garmntk.com)
 
+**Welcome to [GARMENTIK DIGITAL – Templates & Tools for Creators | From Bangladesh](https://garmentik.com)**
 
-We offer trendy, affordable, and sustainable clothing crafted with 100% organic cotton and premium materials. Our collection features graphic t-shirts, printed t-shirts, and polo shirts designed for modern, fashion-conscious individuals. Shop exclusively online for stylish apparel proudly made in Bangladesh. Select your preferred T-shirt from the options below.
+We provide high-quality, professionally designed **digital assets** to help you **build faster, design smarter, and grow better**. From landing page templates and website UI kits to real-world solution guides and SVG icon sets — all crafted to accelerate your creative journey.
+
+Explore our digital products below:
 
 ---
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 300px;">
-  <h3 style="font-size: 1.5rem; margin-top: 0;">Classic T-Shirt</h3>
-  
-  <!-- WhatsApp Logo and Website Link -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <!-- WhatsApp Logo -->
-    <a href="#" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" 
-           style="width: 48px; height: 48px; cursor: pointer;">
-    </a>
-    <!-- Website Link -->
-    <a href="https://garmntk.com" style="color: teal; text-decoration: none; font-weight: bold; font-size: 1rem;">
-      Garmentik.com
-    </a>
-  </div>
-</div>
-  
----
 
-### Cozy Digital
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-  <img src="https://via.placeholder.com/600x600" alt="Cozy Hoodie" style="width:100%; border-radius: 8px;">
-  <h3 style="margin-top: 10px;">Cozy Hoodie</h3>
-  <p><strong>Price:</strong> $30</p>
-  <p>Perfect for chilly days. Stay warm and stylish!</p>
-  <a href="https://wa.me/+8801713401889?text=Hi%20there!%20I'm%20interested%20in%20your%20Cozy%20Hoodie" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Button">
+### 🔥 Landing Page Template (React + Tailwind)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="margin-top: 0;">Landing Page Template (Modern + SEO Friendly)</h3>
+  <p><strong>Tech Stack:</strong> Vite + React + Tailwind CSS</p>
+  <p>Optimized for conversion and mobile-first. Use it to sell your product or service fast.</p>
+  <p><strong>Price:</strong> $9</p>
+  <a href="https://gumroad.billah.dev/l/landing-template" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
+
 ---
+
+### 📘 Real-Life PDF Guide: Start Freelancing Fast
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="margin-top: 0;">PDF Guide: Become a Freelancer in 30 Days</h3>
+  <p>A beginner-friendly guide to launch your freelancing career with zero budget.</p>
+  <p><strong>Pages:</strong> 28 | <strong>Price:</strong> $5</p>
+  <a href="https://gumroad.billah.dev/l/freelance-guide" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20PDF-Gumroad-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</div>
+
+---
+
+### 🧩 Website Template (MERN Stack)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="margin-top: 0;">Full Website Template (React + MUI + MongoDB)</h3>
+  <p>Fully responsive eCommerce-ready MERN template. Plug & play setup.</p>
+  <p><strong>Price:</strong> $19</p>
+  <a href="https://gumroad.billah.dev/l/mern-template" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
+  </a>
+</div>
+
+---
+
+### 🎨 100+ SVG Icon Set – Developer Edition
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="margin-top: 0;">SVG Icon Pack (Dev/Tech Focused)</h3>
+  <p>A clean collection of developer-focused icons for your UI projects, presentations, and code.</p>
+  <p><strong>Price:</strong> $3</p>
+  <a href="https://gumroad.billah.dev/l/dev-icons" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20SVG-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
+  </a>
+</div>
+
+---
+
+### 💬 Want a Custom Template?
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px; text-align:center;">
+  <p>Looking for a custom-made landing page, website, or PDF guide?</p>
+  <a href="https://wa.me/+8801713401889?text=Hi!%20I%20need%20a%20custom%20template%20or%20design%20work." style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp">
+  </a>
+</div>
