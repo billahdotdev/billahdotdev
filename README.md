@@ -59,7 +59,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </details>   
 <details>
 
-<summary><strong>🛍️ Digital Product Shop</strong></summary>
+<summary><strong>Digital Product Shop</strong></summary>
 
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
