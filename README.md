@@ -46,34 +46,22 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details> 
-<summary><strong>Chat with Me</strong></summary>         
- 
-<pre> 
-There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
-Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
-
-The slots for June'25 and July'25 are fully booked. Availability for August will be announced in July'25 on my x account.   
-<br />
-For T-shirt Business inquiries, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb0upJO89fZXlB3xTG6W1qxsRAFUNTM74A/viewform?embedded=true" width="640" height="1442" frameborder="0" marginheight="0" marginwidth="0">Google Form</a> to receive a quick response. Thank you!
-</pre>
-</details>   
-<details>
-
-<summary><strong>Digital Product Shop</strong></summary>
+<summary><strong>🛍️ Digital Product Shop</strong></summary>
 
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
-### 👋 Hi, I’m Masum — a solo developer & digital creator.
+### 👋 Hey, I’m Masum — a solo developer & digital creator.
 
-I build simple, purposeful digital products to help makers, developers, and freelancers move faster. Here are the current products available in my shop:
+I build simple, focused digital products to help developers, freelancers, and creators save time and ship faster. Everything you see here is designed, coded, and refined by me.
 
 ---
 
 ### ⏳ Coming Soon Landing Page Template
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <p>A clean and responsive landing page for launching soon-to-be-released projects. Built with modern web standards.</p>
+  <p>A clean, responsive landing page template for announcing new products or launches.</p>
+  <p><strong>Tech:</strong> HTML, Tailwind CSS</p>
   <p><strong>Price:</strong> $10</p>
-  <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;">
+  <a href="https://gumroad.billah.dev/l/comingsoon" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
@@ -82,10 +70,10 @@ I build simple, purposeful digital products to help makers, developers, and free
 
 ### 👨‍💻 Hacker-Vibe Personal Site Template (React + Vite)
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <p>Dark-mode personal portfolio with a hacker-style aesthetic. Ideal for devs who like bold design and clean code.</p>
-  <p><strong>Tech:</strong> React + Vite</p>
+  <p>A dark-themed personal site template with a hacker aesthetic. Built for developers who want to stand out.</p>
+  <p><strong>Tech:</strong> React + Vite + Tailwind CSS</p>
   <p><strong>Price:</strong> $15</p>
-  <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;">
+  <a href="https://gumroad.billah.dev/l/hackervibe" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
   </a>
 </div>
@@ -94,10 +82,10 @@ I build simple, purposeful digital products to help makers, developers, and free
 
 ### ✏️ Simple Line SVG Icon Pack (60+ Icons)
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <p>Minimal, consistent SVG icons for websites, apps, and UI design. Lightweight and easy to customize.</p>
-  <p><strong>Icons:</strong> 60+ | <strong>Format:</strong> SVG</p>
+  <p>Minimal SVG icons you can drop into any project — simple, scalable, and customizable.</p>
+  <p><strong>Includes:</strong> 60+ icons in SVG format</p>
   <p><strong>Price:</strong> $1</p>
-  <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;">
+  <a href="https://gumroad.billah.dev/l/svglineicons" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
   </a>
 </div>
@@ -106,14 +94,16 @@ I build simple, purposeful digital products to help makers, developers, and free
 
 ### 💬 Need something custom?
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;">
-  <p>Looking for a custom landing page, personal site, or unique SVG icons?</p>
-  <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’d%20like%20to%20discuss%20a%20custom%20digital%20project." style="text-decoration: none;">
+  <p>Looking for a custom landing page, personal site, or a unique set of SVGs?</p>
+  <a href="https://wa.me/+8801713401889?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
   </a>
 </div>
 
 ---
 
-👉 Explore more or purchase at **[gumroad.billah.dev](https://gumroad.billah.dev)**
+### 👉 Explore More or Purchase at  
+🔗 **[gumroad.billah.dev](https://gumroad.billah.dev)**
 
-More About Me? **[MASUM BILLAH](https://billah.dev)**
+### 🙋‍♂️ Want to Learn More About Me?  
+📌 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator • Solo Maker
