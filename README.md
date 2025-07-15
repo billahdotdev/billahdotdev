@@ -61,7 +61,7 @@ I build simple, focused digital products to help developers, freelancers, and cr
   <p>A clean, responsive landing page template for announcing new products or launches.</p>
   <p><strong>Tech:</strong> HTML, Tailwind CSS</p>
   <p><strong>Price:</strong> $10</p>
-  <a href="https://gumroad.billah.dev/l/comingsoon" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
@@ -73,7 +73,7 @@ I build simple, focused digital products to help developers, freelancers, and cr
   <p>A dark-themed personal site template with a hacker aesthetic. Built for developers who want to stand out.</p>
   <p><strong>Tech:</strong> React + Vite + Tailwind CSS</p>
   <p><strong>Price:</strong> $15</p>
-  <a href="https://gumroad.billah.dev/l/hackervibe" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
   </a>
 </div>
@@ -85,7 +85,7 @@ I build simple, focused digital products to help developers, freelancers, and cr
   <p>Minimal SVG icons you can drop into any project — simple, scalable, and customizable.</p>
   <p><strong>Includes:</strong> 60+ icons in SVG format</p>
   <p><strong>Price:</strong> $1</p>
-  <a href="https://gumroad.billah.dev/l/svglineicons" style="text-decoration: none;">
+  <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
   </a>
 </div>
