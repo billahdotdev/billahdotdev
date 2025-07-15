@@ -63,56 +63,42 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
-### 👋 Hey, I’m Masum — a developer & digital creator.
+### 👋 Hi, I’m Masum — a solo developer & digital creator.
 
-I build simple, useful digital products — templates, tools, and guides — based on real-world experience. Everything here is crafted to help creators, developers, and freelancers save time and move forward faster.
+I build simple, purposeful digital products to help makers, developers, and freelancers move faster. Here are the current products available in my shop:
 
 ---
 
-### ⚡️ Landing Page Template (React + Tailwind)
+### ⏳ Coming Soon Landing Page Template
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0;">Modern Landing Page Template</h3>
-  <p><strong>Tech:</strong> React, Tailwind CSS, Vite</p>
-  <p>Clean, fast, and fully responsive. Ideal for SaaS, portfolios, or personal projects.</p>
-  <p><strong>Price:</strong> $9</p>
-  <a href="https://gumroad.billah.dev/l/landing-template" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Get%20it%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy Now">
+  <p>A clean and responsive landing page for launching soon-to-be-released projects. Built with modern web standards.</p>
+  <p><strong>Price:</strong> $10</p>
+  <a href="https://gumroad.billah.dev/l/comingsoon" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
   </a>
 </div>
 
 ---
 
-### 📘 Freelancing Starter Guide (PDF)
+### 👨‍💻 Hacker-Vibe Personal Site Template (React + Vite)
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0;">Freelancing in 30 Days – Beginner PDF</h3>
-  <p>A practical guide to help you start freelancing with zero experience or budget. Based on my journey.</p>
-  <p><strong>Pages:</strong> 28 | <strong>Price:</strong> $5</p>
-  <a href="https://gumroad.billah.dev/l/freelance-guide" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Download%20PDF-Gumroad-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  <p>Dark-mode personal portfolio with a hacker-style aesthetic. Ideal for devs who like bold design and clean code.</p>
+  <p><strong>Tech:</strong> React + Vite</p>
+  <p><strong>Price:</strong> $15</p>
+  <a href="https://gumroad.billah.dev/l/hackervibe" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
   </a>
 </div>
 
 ---
 
-### 🧩 Full Website Template (MERN Stack)
+### ✏️ Simple Line SVG Icon Pack (60+ Icons)
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0;">MERN Stack Website Template</h3>
-  <p>Complete project setup with React, Node, Express & MongoDB. Great starting point for full-stack apps.</p>
-  <p><strong>Price:</strong> $19</p>
-  <a href="https://gumroad.billah.dev/l/mern-template" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Buy%20Now-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
-  </a>
-</div>
-
----
-
-### 🎨 100+ Developer SVG Icons
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
-  <h3 style="margin-top: 0;">Developer Icon Set (SVG)</h3>
-  <p>Clean and minimal SVG icons for dashboards, landing pages, or portfolio projects.</p>
-  <p><strong>Price:</strong> $3</p>
-  <a href="https://gumroad.billah.dev/l/dev-icons" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Download%20SVG-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
+  <p>Minimal, consistent SVG icons for websites, apps, and UI design. Lightweight and easy to customize.</p>
+  <p><strong>Icons:</strong> 60+ | <strong>Format:</strong> SVG</p>
+  <p><strong>Price:</strong> $1</p>
+  <a href="https://gumroad.billah.dev/l/svglineicons" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
   </a>
 </div>
 
@@ -120,10 +106,12 @@ I build simple, useful digital products — templates, tools, and guides — bas
 
 ### 💬 Need something custom?
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;">
-  <p>Want a custom landing page, branding help, or a unique digital product?</p>
-  <a href="https://wa.me/+8801713401889?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20template%20or%20project." style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp">
+  <p>Looking for a custom landing page, personal site, or unique SVG icons?</p>
+  <a href="https://wa.me/+8801713401889?text=Hi%20Masum!%20I’d%20like%20to%20discuss%20a%20custom%20digital%20project." style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
   </a>
 </div>
 
+---
 
+👉 Explore more or purchase at **[gumroad.billah.dev](https://gumroad.billah.dev)**
