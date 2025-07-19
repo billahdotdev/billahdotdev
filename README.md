@@ -52,7 +52,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 ### 👋 Hey, I’m Masum Billah— a Web developer & digital creator.
 
-I build simple, focused digital products to help developers, freelancers, and creators save time and ship faster. I also write practical guides to real-life problems. Everything you see here is designed, coded, and refined by me.
+I build simple, focused digital products to help developers, freelancers, and creators save time and ship faster.  Alongside that, I write real-life problem-solving guides for people looking to take action and improve their work or life.
 
 ---
 
