@@ -25,6 +25,7 @@ displayAboutMe();
 
 ```
 
+
 <details> 
 <summary><strong>More About Me</strong></summary>                                        
 
@@ -32,8 +33,8 @@ displayAboutMe();
 🙂 My Story:      
 I am passionate about JavaScript and web technologies. Before the pandemic, I was just a struggling entrepreneur in the clothing industry.
 'DhakaTeez' is a company where I hustled as a rainmaker. My business had its ups and downs, which were stressful, but I was learning 
- something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game 
- are: Rainmaking for 'DhakaTeez' and 'Web Development Service'.  
+something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game 
+are: Rainmaking for 'DhakaTeez' and 'Web Development Service'.  
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!           
