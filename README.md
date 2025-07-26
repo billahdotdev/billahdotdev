@@ -35,7 +35,7 @@ I’m deeply passionate about JavaScript and modern web technologies. Before the
 
 When the pandemic hit, it gave me a chance to align my passion with my work. That’s when I fully committed to web development—bringing both technical skills and business insight to the table. Today, I wear two hats: helping grow DhakaTeez and offering tailored web development services to individuals and businesses looking to grow online.
 
-If you’re looking for someone who understands both code and commerce—I’d love to help.  
+If you’re looking for someone who understands both code and commerce—I’d love to help.   
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!           
