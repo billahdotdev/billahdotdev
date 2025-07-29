@@ -24,7 +24,7 @@ const displayAboutMe = () => {
 displayAboutMe();    
 
 ```
-
+  
 <details> 
 <summary><strong>More About Me</strong></summary>                                        
 
