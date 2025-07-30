@@ -56,7 +56,7 @@ on a journey of modern web mastery at the University of Helsinki.
 I build simple, focused digital products to help developers, freelancers, and creators save time and ship faster.  Alongside that, I write real-life problem-solving guides for people looking to take action and improve their work or life.
 
 ---
-
+ 
 ### ⏳ Coming Soon Landing Page Template
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;">
   <p>A clean, responsive landing page template for announcing new products or launches.</p>
