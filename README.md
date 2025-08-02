@@ -30,11 +30,11 @@ displayAboutMe();
 
 <pre>
 🙂 My Story:
-I’m deeply passionate about JavaScript and modern web technologies. Before the pandemic, I was navigating the ups and downs of entrepreneurship in the clothing industry through my venture, DhakaTeez. As the person behind the scenes—handling everything from sales to strategy—I learned valuable lessons about persistence, creativity, and real-world problem solving. 
+I’m deeply passionate about JavaScript and modern web technologies. Before the pandemic, I was navigating the ups and downs of entrepreneurship in the clothing industry through my venture, DhakaTeez. As the person behind the scenes—handling everything from sales to strategy—I learned valuable lessons about persistence, creativity, and real-world problem solving.
 
 When the pandemic hit, it gave me a chance to align my passion with my work. That’s when I fully committed to web development—bringing both technical skills and business insight to the table. Today, I wear two hats: helping grow DhakaTeez and offering tailored web development services to individuals and businesses looking to grow online.
 
-If you’re looking for someone who understands both code and commerce—I’d love to help.   
+If you’re looking for someone who understands both code and commerce—I’d love to help.
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!           
