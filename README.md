@@ -37,7 +37,7 @@ When the pandemic hit, it gave me a chance to align my passion with my work. Tha
 If you’re looking for someone who understands both code and commerce—I’d love to help.
 
 👩‍💻 I Speak:
-English, Bangla(Native), Taglish, and of course JavaScript!           
+English, Bangla(Native), Taglish, and of course JavaScript!            
 
 🎓 Credentials:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer   
