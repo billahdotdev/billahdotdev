@@ -64,6 +64,15 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 
 
-### Want to Learn More About Me?  
+### Let’s Connect
+
 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
+Let’s Connect
+I’m always open to new ideas, collaborations, and freelance opportunities.
+
+💌 Email: [your email]
+
+🐦 Twitter: [@yourhandle]
+
+💼 LinkedIn: [yourprofile]
 
