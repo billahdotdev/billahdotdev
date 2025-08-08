@@ -69,6 +69,7 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
 **[billah.dev](https://billah.dev)** – My Site
+
 [X](https://twitter.com/billahdottdev)
   
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)
