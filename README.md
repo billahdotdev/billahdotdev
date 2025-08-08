@@ -70,7 +70,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 **[billah.dev](https://billah.dev)** – Developer • Digital Creator
 
-[X (Twitter)](https://twitter.com/billahdottdev)
+[X](https://twitter.com/billahdottdev)
   
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)
 
