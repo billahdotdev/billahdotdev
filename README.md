@@ -76,8 +76,9 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 [billah.dev](https://billah.dev)  
 [X](https://twitter.com/billahdottdev)  
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)  
-[Mail](mailto:billahdotdev@gmail.com)  
+[Mail](mailto:billahdotdev@gmail.com) 
+
 <a href="https://wa.me/88017156455" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" style="vertical-align:middle; margin-right:4px;" />
-  Chat on WhatsApp
+  
 </a>
