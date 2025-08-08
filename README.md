@@ -48,10 +48,7 @@ on a journey of modern web mastery at the University of Helsinki.
 </details>    
 
 
-<section style="max-width: 900px; margin: auto; font-family: 'Segoe UI', sans-serif; padding: 2rem; background: #fefefe;">
 
-  <h2 style="text-align: center; font-size: 2rem; margin-bottom: 1rem;">🛍️ Welcome to Masum’s Digital Shop</h2>
-  <p style="text-align: center; font-size: 1.1rem; color: #555;">Browse my handmade digital products — crafted with care for developers, creators & freelancers.</p>
 
 <details> <summary><strong>Shop (Digital Products)</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 👋 Hi, I’m Masum — Developer & Digital Creator
@@ -65,7 +62,7 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 ✏️ Simple Line SVG Icon Pack (60+ Icons)
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Clean, minimal SVG icons ready to drop into your next project. Lightweight, scalable, and easy to customize.<br><br> 📦 <strong>Includes:</strong> 60+ icons (SVG format)<br> 💵 <strong>Price:</strong> $1<br><br> <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons"> </a> </div>
 💬 Custom Work & Projects
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a> </div> </details>
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a>  </details>
 
 
 
