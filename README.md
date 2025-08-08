@@ -63,10 +63,10 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a> </div> </details>
 
 
-<details>
-  ### Explore More or Purchase at  
+
+### Explore More or Purchase at  
 **[My Gumroad Store](https://gumroad.billah.dev)** – where I sell my creations.
-</details>
+
 
 
 ### Want to Learn More About Me?  
