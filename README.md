@@ -84,5 +84,5 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 </a>
 
  <a href="mailto:billahdotdev@gmail.com" style="display: block;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email" style="vertical-align:middle; margin-right:4px; />
   </a>
