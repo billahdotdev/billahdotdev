@@ -82,3 +82,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" style="vertical-align:middle; margin-right:4px;" />
   
 </a>
+
+ <a href="mailto:billahdotdev@gmail.com" style="display: block;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" />
+  </a>
