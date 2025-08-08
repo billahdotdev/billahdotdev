@@ -73,10 +73,8 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 [Mail](mailto:billahdotdev@gmail.com)
 
- 
 [X (Twitter)](https://twitter.com/billahdottdev)
-
-### 💼 LinkedIn  
-[billahdotdev](https://www.linkedin.com/in/billahdotdev)
+  
+[LinkedIn](https://www.linkedin.com/in/billahdotdev)
 
 
