@@ -48,7 +48,7 @@ on a journey of modern web mastery at the University of Helsinki.
 </details>    
 
 
-<details> <summary><strong>My Digital Product Store</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
+<details> <summary><strong>Shop (Digital Products)</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 👋 Hi, I’m Masum — Developer & Digital Creator
 I craft clean, focused digital tools to help developers, freelancers, and creators move faster, save time, and launch with confidence. I also write practical, no-fluff guides to solve real-world problems in tech and life.
 
