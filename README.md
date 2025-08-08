@@ -68,8 +68,7 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
-**[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
-
+**[billah.dev](https://billah.dev)** – Developer • Digital Creator
 
 [Mail](mailto:billahdotdev@gmail.com)
 
