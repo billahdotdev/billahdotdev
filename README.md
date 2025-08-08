@@ -78,18 +78,22 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
   <a href="https://billah.dev" target="_blank" style="display: block;">
     <img src="https://img.icons8.com/color/48/domain.png" width="40" alt="My Site" />
   </a>
+  
 
   <a href="https://twitter.com/billahdottdev" target="_blank" style="display: block;">
     <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" alt="Twitter" />
   </a>
+  
 
   <a href="https://www.linkedin.com/in/billahdotdev" target="_blank" style="display: block;">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
   </a>
+  
 
   <a href="mailto:billahdotdev@gmail.com" style="display: block;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" />
   </a>
+  
 
   <a href="https://wa.me/88017156455" target="_blank" style="display: block;">
     <img src="https://img.icons8.com/color/48/whatsapp.png" width="40" alt="WhatsApp" />
