@@ -71,7 +71,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
 
 ### 💌 Email  
-[billahdotdev@gmail.com](mailto:billahdotdev@gmail.com)
+[Mail](mailto:billahdotdev@gmail.com)
 
 ### 🐦 Twitter  
 [@billahdottdev](https://twitter.com/billahdottdev)
