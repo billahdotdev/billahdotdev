@@ -48,19 +48,63 @@ on a journey of modern web mastery at the University of Helsinki.
 </details>    
 
 
-<details> <summary><strong>Shop (Digital Products)</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
-👋 Hi, I’m Masum — Developer & Digital Creator
-I craft clean, focused digital tools to help developers, freelancers, and creators move faster, save time, and launch with confidence. I also write practical, no-fluff guides to solve real-world problems in tech and life.
+<details open>
+  <summary style="font-size: 1.4rem; font-weight: bold; margin-bottom: 1rem;">🛍️ <strong>Shop (Digital Goodies!)</strong></summary>
 
-🚀 Products Built to Save You Time
-⏳ Coming Soon Landing Page Template
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Launch smart. A sleek, responsive landing page for product announcements or waitlists.<br><br> 🔧 <strong>Tech:</strong> HTML + Tailwind CSS<br> 💵 <strong>Price:</strong> $10<br><br> <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad"> </a> </div>
-👨‍💻 Hacker-Vibe Personal Site Template
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Stand out with a bold, dark-themed personal site. Perfect for devs who want that terminal-style edge.<br><br> 🔧 <strong>Tech:</strong> React + Vite + Tailwind CSS<br> 💵 <strong>Price:</strong> $15<br><br> <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now"> </a> </div>
-✏️ Simple Line SVG Icon Pack (60+ Icons)
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Clean, minimal SVG icons ready to drop into your next project. Lightweight, scalable, and easy to customize.<br><br> 📦 <strong>Includes:</strong> 60+ icons (SVG format)<br> 💵 <strong>Price:</strong> $1<br><br> <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons"> </a> </div>
-💬 Custom Work & Projects
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a> </div> </details>
+  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 16px; margin: 1rem 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+
+  <p style="font-size: 1.1rem; line-height: 1.6;">
+    👋 Hey there! I'm <strong>Masum</strong> — a developer & digital creator who loves making clean, simple, and helpful digital tools 🛠️✨.
+    <br><br>
+    From slick templates to cute icon packs, everything here is made to save you time and spark creativity 💡💻. Let's build cool stuff together!
+  </p>
+
+  <h3 style="margin-top: 2rem;">🚀 <u>Digital Products</u></h3>
+
+  <!-- Product 1 -->
+  <div style="border: 2px dashed #f0c0ff; border-radius: 16px; padding: 20px; margin: 1.5rem 0; background-color: #fff9ff;">
+    <h4>🎉 Coming Soon Landing Page Template</h4>
+    <p>Launch like a pro. A sleek, mobile-friendly landing page perfect for product drops or waitlists.</p>
+    <p>🔧 <strong>Built with:</strong> HTML + Tailwind CSS</p>
+    <p>💸 <strong>Price:</strong> $10</p>
+    <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
+      <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="View Template">
+    </a>
+  </div>
+
+  <!-- Product 2 -->
+  <div style="border: 2px dashed #c0f7ff; border-radius: 16px; padding: 20px; margin: 1.5rem 0; background-color: #f8feff;">
+    <h4>👨‍💻 Hacker-Vibe Personal Site Template</h4>
+    <p>Bold, dark, and terminal-chic. This one's for devs who love the command-line aesthetic ⚡</p>
+    <p>🔧 <strong>Built with:</strong> React + Vite + Tailwind CSS</p>
+    <p>💸 <strong>Price:</strong> $15</p>
+    <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
+      <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now">
+    </a>
+  </div>
+
+  <!-- Product 3 -->
+  <div style="border: 2px dashed #d7ffd9; border-radius: 16px; padding: 20px; margin: 1.5rem 0; background-color: #f9fff9;">
+    <h4>✏️ Simple Line SVG Icon Pack (60+ Icons)</h4>
+    <p>Minimal and cute icons for your next project! Lightweight, scalable, and customizable.</p>
+    <p>📦 <strong>Includes:</strong> 60+ SVG icons</p>
+    <p>💸 <strong>Price:</strong> $1 (yep, just a buck!)</p>
+    <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
+      <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
+    </a>
+  </div>
+
+  <!-- Custom Work -->
+  <div style="border: 2px solid #eee; border-radius: 16px; padding: 20px; margin: 2rem 0; background-color: #fff;">
+    <h4>💬 Got a Custom Project in Mind?</h4>
+    <p style="font-size: 1.05rem;">Need a personalized site, a unique landing page, or tech content that actually helps? I’m your dev 💪</p>
+    <p style="text-align: center; margin-top: 1rem;">
+      <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project.">
+        <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp">
+      </a>
+    </p>
+  </div>
+</details>
 
 <br />
 
