@@ -81,4 +81,6 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 [WhatsApp](https://wa.me/+8801711992558)
 
+[![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/+8801711992558)
+
 
