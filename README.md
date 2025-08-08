@@ -53,51 +53,20 @@ on a journey of modern web mastery at the University of Helsinki.
   <h2 style="text-align: center; font-size: 2rem; margin-bottom: 1rem;">🛍️ Welcome to Masum’s Digital Shop</h2>
   <p style="text-align: center; font-size: 1.1rem; color: #555;">Browse my handmade digital products — crafted with care for developers, creators & freelancers.</p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 3rem; justify-content: center;">
+<details> <summary><strong>Shop (Digital Products)</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
+👋 Hi, I’m Masum — Developer & Digital Creator
+I craft clean, focused digital tools to help developers, freelancers, and creators move faster, save time, and launch with confidence. I also write practical, no-fluff guides to solve real-world problems in tech and life.
 
-    <!-- Product 1 -->
-    <div style="width: 280px; background: #fff; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); overflow: hidden;">
-      <img src="https://source.unsplash.com/400x250/?startup,landing-page" alt="Coming Soon Template" style="width: 100%; object-fit: cover;">
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem;">🚀 Coming Soon Page</h3>
-        <p style="font-size: 0.95rem; color: #444;">A clean, mobile-friendly landing page to announce your next big thing.</p>
-        <p style="margin: 0.8rem 0;"><strong>Price:</strong> $10</p>
-        <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="display: inline-block; padding: 0.5rem 1rem; background: #ff7b54; color: white; border-radius: 8px; text-decoration: none;">Buy Now</a>
-      </div>
-    </div>
+🚀 Products Built to Save You Time
+⏳ Coming Soon Landing Page Template
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Launch smart. A sleek, responsive landing page for product announcements or waitlists.<br><br> 🔧 <strong>Tech:</strong> HTML + Tailwind CSS<br> 💵 <strong>Price:</strong> $10<br><br> <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad"> </a> </div>
+👨‍💻 Hacker-Vibe Personal Site Template
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Stand out with a bold, dark-themed personal site. Perfect for devs who want that terminal-style edge.<br><br> 🔧 <strong>Tech:</strong> React + Vite + Tailwind CSS<br> 💵 <strong>Price:</strong> $15<br><br> <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now"> </a> </div>
+✏️ Simple Line SVG Icon Pack (60+ Icons)
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Clean, minimal SVG icons ready to drop into your next project. Lightweight, scalable, and easy to customize.<br><br> 📦 <strong>Includes:</strong> 60+ icons (SVG format)<br> 💵 <strong>Price:</strong> $1<br><br> <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons"> </a> </div>
+💬 Custom Work & Projects
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a> </div> </details>
 
-    <!-- Product 2 -->
-    <div style="width: 280px; background: #fff; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); overflow: hidden;">
-      <img src="https://source.unsplash.com/400x250/?dark,code,terminal" alt="Hacker Site Template" style="width: 100%; object-fit: cover;">
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem;">👨‍💻 Hacker-Vibe Portfolio</h3>
-        <p style="font-size: 0.95rem; color: #444;">Dark terminal-style personal site for devs who code in style.</p>
-        <p style="margin: 0.8rem 0;"><strong>Price:</strong> $15</p>
-        <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="display: inline-block; padding: 0.5rem 1rem; background: #333; color: white; border-radius: 8px; text-decoration: none;">Buy Now</a>
-      </div>
-    </div>
-
-    <!-- Product 3 -->
-    <div style="width: 280px; background: #fff; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); overflow: hidden;">
-      <img src="https://source.unsplash.com/400x250/?icons,svg,design" alt="SVG Icons Pack" style="width: 100%; object-fit: cover;">
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem;">✏️ SVG Icon Pack (60+)</h3>
-        <p style="font-size: 0.95rem; color: #444;">Minimal icons for any project — clean, scalable, and customizable.</p>
-        <p style="margin: 0.8rem 0;"><strong>Price:</strong> $1</p>
-        <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="display: inline-block; padding: 0.5rem 1rem; background: #4CAF50; color: white; border-radius: 8px; text-decoration: none;">Download</a>
-      </div>
-    </div>
-
-  </div>
-
-  <!-- Custom Work Section -->
-  <div style="margin-top: 4rem; text-align: center; padding: 2rem; background: #f9f9f9; border-radius: 16px;">
-    <h3 style="font-size: 1.5rem;">💬 Need Something Custom?</h3>
-    <p style="max-width: 600px; margin: 0.5rem auto 1.5rem; font-size: 1rem; color: #555;">I also take custom work — whether it's a portfolio, landing page, or content project. Let's chat and build something awesome together!</p>
-    <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="display: inline-block; padding: 0.6rem 1.2rem; background: #25D366; color: white; border-radius: 8px; text-decoration: none;">Chat on WhatsApp</a>
-  </div>
-
-</section>
 
 
 <br />
