@@ -67,24 +67,6 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 <br />
 <br />
 
-## Let’s Connect
-
-I’m always open to new ideas, collaborations, and freelance opportunities.
-
-[billah.dev](https://billah.dev)
-
-[X](https://twitter.com/billahdottdev)
-  
-[LinkedIn](https://www.linkedin.com/in/billahdotdev)
-
-[Mail](mailto:billahdotdev@gmail.com)
-
-[WhatsApp](https://wa.me/+8801711992558)
-
-<a href="https://wa.me/+8801711992558" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" style="vertical-align:middle; margin-right:4px;" />
-  Chat on WhatsApp
-</a>
 
 
 ## Let’s Connect
