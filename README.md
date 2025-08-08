@@ -73,30 +73,47 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
-<div style="display: flex; flex-direction: column; gap: 12px; max-width: 60px;">
+<!-- Personal Image -->
+<a href="https://billah.dev" target="_blank">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/avatar.jpg" alt="Masum Billah" width="80" style="border-radius: 50%; margin-bottom: 10px;" />
+</a>
 
-  <a href="https://billah.dev" target="_blank" style="display: block;">
-    <img src="https://img.icons8.com/color/48/domain.png" width="40" alt="My Site" />
+<!-- Personal Website -->
+<p>
+  <a href="https://billah.dev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+    billah.dev
   </a>
-  
+</p>
 
-  <a href="https://twitter.com/billahdottdev" target="_blank" style="display: block;">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" alt="Twitter" />
+<!-- Twitter / X -->
+<p>
+  <a href="https://twitter.com/billahdottdev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+    @billahdottdev
   </a>
-  
+</p>
 
-  <a href="https://www.linkedin.com/in/billahdotdev" target="_blank" style="display: block;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
+<!-- LinkedIn -->
+<p>
+  <a href="https://www.linkedin.com/in/billahdotdev" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+    LinkedIn
   </a>
-  
+</p>
 
-  <a href="mailto:billahdotdev@gmail.com" style="display: block;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" />
+<!-- Email -->
+<p>
+  <a href="mailto:billahdotdev@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
+    billahdotdev@gmail.com
   </a>
-  
+</p>
 
-  <a href="https://wa.me/88017156455" target="_blank" style="display: block;">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="40" alt="WhatsApp" />
+<!-- WhatsApp -->
+<p>
+  <a href="https://wa.me/88017156455" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" style="vertical-align: middle; margin-right: 6px;" />
+    WhatsApp
   </a>
-
-</div>
+</p>
