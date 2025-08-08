@@ -77,7 +77,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 <!-- Website (use your custom icon if needed) -->
 <a href="https://billah.dev" target="_blank">
   <img src="https://img.icons8.com/color/48/domain.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  billah.dev
+  
 </a>
 
 <!-- X / Twitter -->
