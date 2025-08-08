@@ -91,10 +91,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
-<!-- Personal Image -->
-<a href="https://billah.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/avatar.jpg" alt="Masum Billah" width="80" style="border-radius: 50%; margin-bottom: 10px;" />
-</a>
+
 
 <!-- Personal Website -->
 <p>
