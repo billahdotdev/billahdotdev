@@ -76,7 +76,8 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 [billah.dev](https://billah.dev)  
 [X](https://twitter.com/billahdottdev)  
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)  
-[Mail](mailto:billahdotdev@gmail.com) 
+[Mail](mailto:billahdotdev@gmail.com)
+
 [WhatsApp](https://wa.me/+8801711992558)
 
 
