@@ -64,11 +64,6 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 
 
-### Explore More or Purchase at  
-**[My Gumroad Store](https://gumroad.billah.dev)** – where I sell my creations.
-
-
-
 ### Want to Learn More About Me?  
 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
 
