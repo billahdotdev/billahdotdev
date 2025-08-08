@@ -64,6 +64,9 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 <br />
 
+<br />
+<br />
+
 ## Let’s Connect
 
 I’m always open to new ideas, collaborations, and freelance opportunities.
