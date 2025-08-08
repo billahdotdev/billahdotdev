@@ -64,16 +64,19 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 
 
 
-### Let’s Connect
+## Let’s Connect
+
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
 **[MASUM BILLAH](https://billah.dev)** – Developer • Digital Creator
-Let’s Connect
 
+### 💌 Email  
+[billahdotdev@gmail.com](mailto:billahdotdev@gmail.com)
 
-💌 Email: [billahdotdev@gmail.com]
+### 🐦 Twitter  
+[@billahdottdev](https://twitter.com/billahdottdev)
 
-🐦 Twitter: [@billahdottdev]
+### 💼 LinkedIn  
+[billahdotdev](https://www.linkedin.com/in/billahdotdev)
 
-💼 LinkedIn: [billahdotdev]
 
