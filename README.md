@@ -77,30 +77,30 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 <!-- Website (use your custom icon if needed) -->
 <a href="https://billah.dev" target="_blank">
   <img src="https://img.icons8.com/color/48/domain.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  
+  My Site
 </a>
 
 <!-- X / Twitter -->
 <a href="https://twitter.com/billahdottdev" target="_blank">
   <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  @billahdottdev
+  
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/billahdotdev" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  LinkedIn
+
 </a>
 
 <!-- Email -->
 <a href="mailto:billahdotdev@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  billahdotdev@gmail.com
+  
 </a>
 
 <!-- WhatsApp -->
 <a href="https://wa.me/88017156455" target="_blank">
   <img src="https://img.icons8.com/color/48/whatsapp.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
-  WhatsApp
+  
 </a>
 
