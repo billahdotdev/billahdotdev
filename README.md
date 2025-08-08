@@ -70,9 +70,9 @@ I craft clean, focused digital tools to help developers, freelancers, and creato
 Let’s Connect
 I’m always open to new ideas, collaborations, and freelance opportunities.
 
-💌 Email: [your email]
+💌 Email: [billahdotdev@gmail.com]
 
-🐦 Twitter: [@yourhandle]
+🐦 Twitter: [@billahdottdev]
 
-💼 LinkedIn: [yourprofile]
+💼 LinkedIn: [billahdotdev]
 
