@@ -81,11 +81,13 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 </a>
 
 
+
 <!-- X / Twitter -->
 <a href="https://twitter.com/billahdottdev" target="_blank">
   <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
   
 </a>
+
 
 
 <!-- LinkedIn -->
@@ -95,11 +97,13 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 </a>
 
 
+
 <!-- Email -->
 <a href="mailto:billahdotdev@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" style="vertical-align: middle; margin-right: 6px;" />
   
 </a>
+
 
 
 <!-- WhatsApp -->
