@@ -76,7 +76,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 12px;">
 
   <a href="https://billah.dev" target="_blank" style="display: block;">
-    <img src="https://img.icons8.com/color/48/domain.png" width="30" alt="My Site" />
+    <img src="https://img.icons8.com/color/48/domain.png" width="30" alt="My Site" align-items: center />
   </a>
 
   <a href="https://twitter.com/billahdottdev" target="_blank" style="display: block;">
