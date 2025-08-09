@@ -58,7 +58,7 @@ on a journey of modern web mastery at the University of Helsinki.
 ### 👋 Welcome to My Digital Store  
 Hi, I’m **Masum** — Developer & Digital Creator.  
 I build **clean, focused digital tools** for developers, freelancers, and creators.  
-My products help you **move faster, save time, and launch with confidence**.
+My products help you **move faster, save time, and launch with confidence**. 
 
 ---
 
