@@ -50,24 +50,75 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 
-<details> <summary><strong>Shop (Digital Products)</strong></summary> <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
-  
-👋 Hi, I’m Masum — Developer & Digital Creator
+<details>
+<summary><strong>🛍️ Shop – Digital Products</strong></summary>
 
-I craft clean, focused digital tools to help developers, freelancers, and creators move faster, save time, and launch with confidence. I also write practical, no-fluff guides to solve real-world problems in tech and life.
+<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
+### 👋 Welcome to My Digital Store  
+Hi, I’m **Masum** — Developer & Digital Creator.  
+I build **clean, focused digital tools** for developers, freelancers, and creators.  
+My products help you **move faster, save time, and launch with confidence**.
 
+---
 
-🚀 Products Built to Save You Time
+## 🚀 Featured Products
 
-⏳ Coming Soon Landing Page Template
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Launch smart. A sleek, responsive landing page for product announcements or waitlists.<br><br> 🔧 <strong>Tech:</strong> HTML + Tailwind CSS<br> 💵 <strong>Price:</strong> $10<br><br> <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad"> </a> </div>
-👨‍💻 Hacker-Vibe Personal Site Template
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Stand out with a bold, dark-themed personal site. Perfect for devs who want that terminal-style edge.<br><br> 🔧 <strong>Tech:</strong> React + Vite + Tailwind CSS<br> 💵 <strong>Price:</strong> $15<br><br> <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy Now"> </a> </div>
-✏️ Simple Line SVG Icon Pack (60+ Icons)
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Clean, minimal SVG icons ready to drop into your next project. Lightweight, scalable, and easy to customize.<br><br> 📦 <strong>Includes:</strong> 60+ icons (SVG format)<br> 💵 <strong>Price:</strong> $1<br><br> <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons"> </a> </div>
-💬 Custom Work & Projects
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; text-align: center;"> Need a **custom landing page**, **personal site**, or a **problem-solving content piece**?<br><br> Let’s chat!<br><br> <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project." style="text-decoration: none;"> <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat"> </a>  </details>
+### ⏳ Coming Soon Landing Page Template – **$10**
+<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
+A sleek, responsive landing page for **product launches or waitlists**. Perfect for quick validation.  
+<br>
+🔧 **Tech:** HTML + Tailwind CSS  
+💵 **Price:** $10  
+<br><br>
+<a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
+<img src="https://img.shields.io/badge/View%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+</a>
+</div>
+
+---
+
+### 👨‍💻 Hacker-Vibe Personal Website Template – **$15**
+<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
+A bold, dark-themed personal website with a **terminal-style look**.  
+Perfect for developers who want a **unique online presence**.  
+<br>
+🔧 **Tech:** React + Vite + Tailwind CSS  
+💵 **Price:** $15  
+<br><br>
+<a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
+<img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+</a>
+</div>
+
+---
+
+### ✏️ Simple Line SVG Icon Pack (60+ Icons) – **$1**
+<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
+A **lightweight, scalable** SVG icon set for web & app projects.  
+Clean, minimal design for modern interfaces.  
+<br>
+📦 **Includes:** 60+ icons (SVG format)  
+💵 **Price:** $1  
+<br><br>
+<a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
+<img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
+</a>
+</div>
+
+---
+
+## 💬 Custom Work
+<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; text-align: center;">
+Need a **custom landing page**, **personal site**, or **problem-solving content**?  
+Let’s create something amazing together.  
+<br><br>
+<a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project.">
+<img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
+</a>
+</div>
+
+</details>
 
 
 
