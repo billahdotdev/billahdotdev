@@ -51,7 +51,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary><strong>🛍️ Shop – Digital Products</strong></summary>
+<summary><strong>Shop – Digital Products</strong></summary>
 
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
 
