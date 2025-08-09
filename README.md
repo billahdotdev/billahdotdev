@@ -54,7 +54,9 @@ on a journey of modern web mastery at the University of Helsinki.
 👋 Hi, I’m Masum — Developer & Digital Creator
 I craft clean, focused digital tools to help developers, freelancers, and creators move faster, save time, and launch with confidence. I also write practical, no-fluff guides to solve real-world problems in tech and life.
 
+
 🚀 Products Built to Save You Time
+
 ⏳ Coming Soon Landing Page Template
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-bottom: 16px;"> Launch smart. A sleek, responsive landing page for product announcements or waitlists.<br><br> 🔧 <strong>Tech:</strong> HTML + Tailwind CSS<br> 💵 <strong>Price:</strong> $10<br><br> <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Template-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad"> </a> </div>
 👨‍💻 Hacker-Vibe Personal Site Template
