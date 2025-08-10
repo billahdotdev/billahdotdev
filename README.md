@@ -56,7 +56,7 @@ on a journey of modern web mastery at the University of Helsinki.
      
 Ready to use templates, design assets, and tools for developers, freelancers, and creators.
 
-<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
+<img src="https://images.unsplash.com/photo-1569605803663-e9337d901ff9?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
 
 ---
 
