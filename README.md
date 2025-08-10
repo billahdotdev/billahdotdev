@@ -51,8 +51,10 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-# 🛍️ Masum’s Digital Store  
-_Ready-to-use templates, design assets, and tools for developers, freelancers, and creators._  
+<summary><strong>Masum’s Digital Store></summary>
+
+     
+Ready to use templates, design assets, and tools for developers, freelancers, and creators.
 
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
 
