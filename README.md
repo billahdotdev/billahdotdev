@@ -51,62 +51,72 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-🛍️ My Digital Store
+# 🛍️ Masum’s Digital Store  
+_Ready-to-use templates, design assets, and tools for developers, freelancers, and creators._  
+
 <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
 
-Welcome! I’m Masum, a developer and digital creator who builds high-quality tools for other developers, freelancers, and creators. My goal is to help you move faster, save time, and launch with confidence.
+---
 
-🚀 Featured Digital Products
-Coming Soon Landing Page Template
+## 🚀 Featured Products
 
-<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
-A sleek, responsive landing page for product launches and waitlists. This template is perfect for quickly validating an idea or building an audience before your official launch.
-<br><br>
-- Features: Clean design, responsive layout, easy to customize.
-- Built With: HTML, Tailwind CSS
-- Price: $10
-<br><br>
+<table>
+<tr>
+<td width="33%">
+  
+**Coming Soon Landing Page**  
+_A modern, responsive landing page for pre-launch waitlists._  
+
+💻 **Built With:** HTML, Tailwind CSS  
+💲 **Price:** $10  
+
 <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
 <img src="https://img.shields.io/badge/View%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
-</a>
-</div>
+</a>  
 
-Hacker-Vibe Personal Website Template
+</td>
+<td width="33%">
 
-<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
-A bold, dark-themed personal website with a unique terminal-style aesthetic. Stand out from the crowd and showcase your coding skills with a memorable online presence.
-<br><br>
-- Features: Dynamic text, interactive terminal, modern design.
-- Built With: React, Vite, Tailwind CSS
-- Price: $15
-<br><br>
+**Hacker-Vibe Personal Website**  
+_A bold terminal-style personal website to stand out online._  
+
+💻 **Built With:** React, Vite, Tailwind CSS  
+💲 **Price:** $15  
+
 <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
 <img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
-</a>
-</div>
+</a>  
 
-Simple Line SVG Icon Pack (60+ Icons)
+</td>
+<td width="33%">
 
-<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
-A collection of lightweight, scalable SVG icons for your web and app projects. With over 60 icons, this pack provides a clean, minimal look that enhances any modern interface.
-<br><br>
-- Features: 60+ icons, SVG format, simple line design.
-- Includes: Icons for UI, social media, and more.
-- Price: $1
-<br><br>
+**Simple Line SVG Icon Pack (60+)**  
+_Minimal, scalable SVG icons for any modern UI._  
+
+📦 **Includes:** 60+ Icons, SVG Format  
+💲 **Price:** $1  
+
 <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
 <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
-</a>
-</div>
+</a>  
 
-👋 Need Custom Work?
-<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; text-align: center;">
-Looking for something unique? Whether it’s a custom landing page, a personalized website, or a specific technical solution, I’m here to help. Let’s collaborate and bring your ideas to life.
-<br><br>
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Custom Work & Services
+Need something tailored for your project?  
+From **custom websites** to **unique landing pages** — let’s build it together.
+
 <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project.">
 <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
 </a>
-</div>
+
+---
+✨ _Built by Masum — helping creators launch faster & smarter._
+
 
 </details>
 
