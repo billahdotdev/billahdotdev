@@ -51,7 +51,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary><strong>Masum’s Digital Store></summary>
+<summary><strong>Masum’s Digital Store</strong></summary>
 
      
 Ready to use templates, design assets, and tools for developers, freelancers, and creators.
