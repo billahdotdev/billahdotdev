@@ -51,67 +51,57 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary><strong>Shop – Digital Products</strong></summary>
+🛍️ My Digital Store
+<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
 
-<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1350&q=80" alt="Creative Workspace" style="width: 100%; border-radius: 12px; margin-bottom: 1rem;">
+Welcome! I’m Masum, a developer and digital creator who builds high-quality tools for other developers, freelancers, and creators. My goal is to help you move faster, save time, and launch with confidence.
 
-### 👋 Welcome to My Digital Store  
-Hi, I’m **Masum** — Developer & Digital Creator.  
-I build **clean, focused digital tools** for developers, freelancers, and creators.  
-My products help you **move faster, save time, and launch with confidence**. 
+🚀 Featured Digital Products
+Coming Soon Landing Page Template
 
----
-
-## 🚀 Featured Products
-
-### ⏳ Coming Soon Landing Page Template – **$10**
-<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
-A sleek, responsive landing page for **product launches or waitlists**. Perfect for quick validation.  
-<br>
-🔧 **Tech:** HTML + Tailwind CSS  
-💵 **Price:** $10  
+<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
+A sleek, responsive landing page for product launches and waitlists. This template is perfect for quickly validating an idea or building an audience before your official launch.
+<br><br>
+- Features: Clean design, responsive layout, easy to customize.
+- Built With: HTML, Tailwind CSS
+- Price: $10
 <br><br>
 <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
 <img src="https://img.shields.io/badge/View%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
 </a>
 </div>
 
----
+Hacker-Vibe Personal Website Template
 
-### 👨‍💻 Hacker-Vibe Personal Website Template – **$15**
-<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
-A bold, dark-themed personal website with a **terminal-style look**.  
-Perfect for developers who want a **unique online presence**.  
-<br>
-🔧 **Tech:** React + Vite + Tailwind CSS  
-💵 **Price:** $15  
+<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
+A bold, dark-themed personal website with a unique terminal-style aesthetic. Stand out from the crowd and showcase your coding skills with a memorable online presence.
+<br><br>
+- Features: Dynamic text, interactive terminal, modern design.
+- Built With: React, Vite, Tailwind CSS
+- Price: $15
 <br><br>
 <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
 <img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
 </a>
 </div>
 
----
+Simple Line SVG Icon Pack (60+ Icons)
 
-### ✏️ Simple Line SVG Icon Pack (60+ Icons) – **$1**
-<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; margin-bottom: 16px;">
-A **lightweight, scalable** SVG icon set for web & app projects.  
-Clean, minimal design for modern interfaces.  
-<br>
-📦 **Includes:** 60+ icons (SVG format)  
-💵 **Price:** $1  
+<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 24px;">
+A collection of lightweight, scalable SVG icons for your web and app projects. With over 60 icons, this pack provides a clean, minimal look that enhances any modern interface.
+<br><br>
+- Features: 60+ icons, SVG format, simple line design.
+- Includes: Icons for UI, social media, and more.
+- Price: $1
 <br><br>
 <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
 <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
 </a>
 </div>
 
----
-
-## 💬 Custom Work
-<div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 12px; text-align: center;">
-Need a **custom landing page**, **personal site**, or **problem-solving content**?  
-Let’s create something amazing together.  
+👋 Need Custom Work?
+<div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; text-align: center;">
+Looking for something unique? Whether it’s a custom landing page, a personalized website, or a specific technical solution, I’m here to help. Let’s collaborate and bring your ideas to life.
 <br><br>
 <a href="https://wa.me/+8801711992558?text=Hi%20Masum!%20I’m%20interested%20in%20a%20custom%20digital%20project.">
 <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp Chat">
