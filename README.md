@@ -136,7 +136,7 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 [billah.dev](https://billah.dev) 
 
-[X](https://twitter.com/billahdottdev)  
+[X](https://twitter.com/billahdotdev)  
 
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)  
 
