@@ -64,7 +64,7 @@ Ready to use templates, design assets, and tools for developers, freelancers, an
 
 ---
 
-## 🚀 Featured Products
+## Featured Products
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ _A bold terminal-style personal website to stand out online._
 **Simple Line SVG Icon Pack (60+)**  
 _Minimal, scalable SVG icons for any modern UI._  
 
-📦 **Includes:** 60+ Icons, SVG Format  
+ **Includes:** 60+ Icons, SVG Format  
 💲 **Price:** $1  
 
 <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
