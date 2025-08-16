@@ -24,7 +24,6 @@ const displayAboutMe = () => {
 displayAboutMe();
                                                                                                           
 
-
 ```                                 
 
   
