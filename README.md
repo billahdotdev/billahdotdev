@@ -34,7 +34,13 @@ displayAboutMe();
 
 <pre>
 🙂 My Story:
-I started out running a clothing business, where I learned how to solve problems and think creatively under pressure. Along the way, I discovered coding and quickly became fascinated by it. When the pandemic hit, I finally had the time to bring those two worlds together and saw how powerful digital experiences can be in making a real difference in people’s lives. Since then, through learning, trial and error, and building projects, I’ve developed a strong understanding of the web. Each project still teaches me something new, and I believe growth comes from staying curious and adapting at every step.
+I started out running a clothing business, where I learned how to solve problems and think creatively under pressure. 
+Along the way, I discovered coding and quickly became fascinated by it. When the pandemic hit, 
+I finally had the time to bring those two worlds together and 
+saw how powerful digital experiences can be in making a real difference in people’s lives. 
+Since then, through learning, trial and error, and building projects, 
+I’ve developed a strong understanding of the web. Each project still teaches me something new, 
+and I believe growth comes from staying curious and adapting at every step.
 
 If you’re looking for someone who understands both code and commerce—I’d love to help.
 
