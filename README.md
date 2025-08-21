@@ -54,9 +54,9 @@ on a journey of modern web mastery at the University of Helsinki.
 <summary><strong>Masum’s Digital Store</strong></summary>
 
      
-* Built by Masum Billah: helping creators launch faster & smarter.
+* Built by Masum Billah: helping developers, freelancers, and creators launch faster & smarter.
   
-* Ready to use templates, design assets, and tools for developers, freelancers, and creators.
+* Ready to use templates, design assets
 
 <img src="https://images.unsplash.com/photo-1569605803663-e9337d901ff9?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; border-radius: 12px; margin-bottom: 24px;">
 
