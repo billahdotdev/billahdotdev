@@ -117,7 +117,7 @@ From **custom websites** to **unique landing pages** — let’s build it togeth
 </a>
 
 ---
-✨ _Built by Masum — helping creators launch faster & smarter._
+* Built by Masum Billah: helping creators launch faster & smarter.
 
 
 </details>
