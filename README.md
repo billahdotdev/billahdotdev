@@ -50,8 +50,6 @@ on a journey of modern web mastery at the University of Helsinki.
 </details>      
 
 
-
-
 <details>
 <summary><strong>Masum’s Digital Store</strong></summary>
 
@@ -127,10 +125,6 @@ From **custom websites** to **unique landing pages** — let’s build it togeth
 
 
 <br />
-<br />
-<br />
-
-
 
 ## Let’s Connect
 
