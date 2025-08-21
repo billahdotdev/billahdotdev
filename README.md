@@ -123,9 +123,6 @@ From **custom websites** to **unique landing pages** — let’s build it togeth
 </details>
 
 
-
-<br />
-
 ## Let’s Connect
 
 I’m always open to new ideas, collaborations, and freelance opportunities.
