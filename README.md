@@ -37,7 +37,7 @@ people’s lives. Since then, through learning, trial and error, and building pr
 understanding of the web. Each project still teaches me something new, and I believe growth comes from staying 
 curious and adapting at every step.
 
-If you’re looking for someone who understands both code and commerce—I’d love to help. 
+If you’re looking for someone who understands both code and commerce—I’d love to help.   
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!            
