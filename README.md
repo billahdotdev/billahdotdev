@@ -1,4 +1,29 @@
-                    
+```javascript                             
+
+// Welcome to my world!       
+const displayAboutMe = () => {
+    const aboutMe = {
+        name: 'Masum Billah',
+        intro: "I'm a web developer, bringing digital dreams to life.",
+        languages: ['JavaScript', 'TypeScript'],
+        coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
+        tools: ['Git', 'TailwindCSS', 'Figma', 'Inkscape', 'and more...'],
+        interests: ['Web Technologies', 'Smart marketing', 'Branding'],
+        locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
+        webAddress: 'https://billah.dev',
+        contact: {
+            email: 'billahdotdev@gmail.com',
+            phone: ['+8801711992558', '+639156015542'],
+            socialMediaHandle: 'billahdotdev',
+        },
+    };
+
+    console.log(aboutMe);
+};
+
+displayAboutMe();                                                                                                           
+
+```                                     
      
 <details> 
 <summary><strong>More About Me</strong></summary>                                              
