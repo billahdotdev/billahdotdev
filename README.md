@@ -48,7 +48,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary><strong>Masum’s Digital Store</strong></summary>
+<summary><strong>Masum’s Digital Store</strong></summary>  
 
      
 * Built by Masum Billah: helping developers, freelancers, and creators launch faster & smarter.
