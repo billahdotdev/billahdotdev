@@ -65,7 +65,7 @@ on a journey of modern web mastery at the University of Helsinki.
 <div style="margin-bottom: 30px; padding: 16px; border: 1px solid #ddd; border-radius: 12px; display: flex; flex-direction: row; align-items: center; gap: 16px; flex-wrap: wrap;">
 
   <!-- Image -->
-  <img src="https://via.placeholder.com/100x100.png?text=Coming+Soon" alt="Coming Soon Landing Page" width="100" height="100" style="border-radius: 8px; object-fit: cover;">
+  <img src="https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Coming Soon Landing Page" width="100" height="100" style="border-radius: 8px; object-fit: cover;">
 
   <!-- Info -->
   <div style="flex: 1; min-width: 250px;">
