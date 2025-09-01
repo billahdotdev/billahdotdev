@@ -89,6 +89,22 @@ _A bold terminal-style personal website to stand out online._
 </a>  
 
 </td>
+
+
+<td width="33%">
+
+**Hacker-Vibe Personal Website**  
+_A bold terminal-style personal website to stand out online._  
+
+💻 **Built With:** React, Vite, Tailwind CSS  
+💲 **Price:** $15  
+
+<a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
+<img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+</a>  
+
+</td>
+
 <td width="33%">
 
 **Simple Line SVG Icon Pack (60+)**  
