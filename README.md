@@ -59,50 +59,48 @@ on a journey of modern web mastery at the University of Helsinki.
 
 ---
 
-## Featured Products
+## 🚀 Featured Products
 
-<div align="center">
-
-<!-- Container for product cards -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Product 1 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <strong>Coming Soon Landing Page</strong><br>
-    <em>A modern, responsive landing page for pre-launch waitlists.</em><br><br>
-    💻 <strong>Built With:</strong> HTML, CSS<br>
-    💲 <strong>Price:</strong> $10<br><br>
-    <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
-      <img src="https://img.shields.io/badge/View%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
-    </a>
-  </div>
-
-  <!-- Product 2 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <strong>Hacker-Vibe Personal Website</strong><br>
-    <em>A bold terminal-style personal website to stand out online.</em><br><br>
-    💻 <strong>Built With:</strong> React, Vite, Tailwind CSS<br>
-    💲 <strong>Price:</strong> $15<br><br>
-    <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
-      <img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
-    </a>
-  </div>
-
-  <!-- Product 3 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <strong>Simple Line SVG Icon Pack (60+)</strong><br>
-    <em>Minimal, scalable SVG icons for any modern UI.</em><br><br>
-    <strong>Includes:</strong> 60+ Icons, SVG Format<br>
-    💲 <strong>Price:</strong> $1<br><br>
-    <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
-      <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
-    </a>
-  </div>
-
-  <!-- Add more products below by duplicating this block -->
-
+<!-- Product 1 -->
+<div style="margin-bottom: 32px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px;">
+  <h3>✨ Coming Soon Landing Page</h3>
+  <p><em>A modern, responsive landing page for pre-launch waitlists.</em></p>
+  <ul>
+    <li>💻 <strong>Built With:</strong> HTML, CSS</li>
+    <li>💲 <strong>Price:</strong> $10</li>
+  </ul>
+  <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
+    <img src="https://img.shields.io/badge/View%20on-Gumroad-orange?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+  </a>
 </div>
+
+<!-- Product 2 -->
+<div style="margin-bottom: 32px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px;">
+  <h3>💻 Hacker-Vibe Personal Website</h3>
+  <p><em>A bold terminal-style personal website to stand out online.</em></p>
+  <ul>
+    <li>💻 <strong>Built With:</strong> React, Vite, Tailwind CSS</li>
+    <li>💲 <strong>Price:</strong> $15</li>
+  </ul>
+  <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website">
+    <img src="https://img.shields.io/badge/View%20on-Gumroad-teal?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad">
+  </a>
 </div>
+
+<!-- Product 3 -->
+<div style="margin-bottom: 32px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px;">
+  <h3>🧩 Simple Line SVG Icon Pack (60+)</h3>
+  <p><em>Minimal, scalable SVG icons for any modern UI.</em></p>
+  <ul>
+    <li>📦 <strong>Includes:</strong> 60+ Icons, SVG Format</li>
+    <li>💲 <strong>Price:</strong> $1</li>
+  </ul>
+  <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons">
+    <img src="https://img.shields.io/badge/Get%20SVGs-Gumroad-success?style=for-the-badge&logo=svg" alt="Download Icons">
+  </a>
+</div>
+
+<!-- 👇 Add more products by duplicating the block above -->
 
 
 ---
