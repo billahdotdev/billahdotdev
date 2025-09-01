@@ -68,7 +68,7 @@ on a journey of modern web mastery at the University of Helsinki.
 **Coming Soon Landing Page**  
 _A modern, responsive landing page for pre-launch waitlists._  
 
-💻 **Built With:** HTML, Tailwind CSS  
+💻 **Built With:** HTML, CSS  
 💲 **Price:** $10  
 
 <a href="https://billahdotdev.gumroad.com/l/coming-soon-landing-page-template">
