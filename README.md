@@ -62,7 +62,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 ---
 
-### 🔔 Coming Soon Landing Page
+### Coming Soon Landing Page
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 20px; margin-bottom: 32px;">
 
