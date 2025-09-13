@@ -58,7 +58,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 ---
 
-## 🌟 Featured Products
+## Featured Products
 
 ---
 
