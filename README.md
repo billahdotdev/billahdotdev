@@ -88,7 +88,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 <div style="flex: 1; min-width: 260px;">
   <p><strong>Description:</strong> A bold, terminal-style personal website to stand out and show off your developer persona.</p>
-  <p>⚙️ <strong>React, Vite, Tailwind CSS</strong> &nbsp; | &nbsp; 💲 <strong>$15</strong></p>
+  <p><strong>React, Vite, Tailwind CSS</strong> &nbsp; | &nbsp; 💲 <strong>$15</strong></p>
 </div>
 
 <a href="https://billahdotdev.gumroad.com/l/hacker-terminal-website" target="_blank">
