@@ -106,7 +106,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 <div style="flex: 1; min-width: 260px;">
   <p><strong>Description:</strong> A minimal icon pack with 60+ scalable vector icons for any modern UI or web project.</p>
-  <p>📦 <strong>60+ SVG Icons</strong> &nbsp; | &nbsp; 💲 <strong>$1</strong></p>
+  <p><strong>60+ SVG Icons</strong> &nbsp; | &nbsp; 💲 <strong>$1</strong></p>
 </div>
 
 <a href="https://billahdotdev.gumroad.com/l/simple-line-svg-icons" target="_blank">
