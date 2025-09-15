@@ -98,7 +98,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 ---
 
-### Simple Line SVG Icons (60+)
+### Simple Line SVG Icons (60+) 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; border: 1px solid #e1e4e8; border-radius: 12px; padding: 20px; margin-bottom: 32px;">
 
