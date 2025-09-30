@@ -141,7 +141,9 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/billahdotdev)  
 
-[Mail](mailto:billahdotdev@gmail.com)  
+[Mail](mailto:billahdotdev@gmail.com) 
+
+
 
 
 
