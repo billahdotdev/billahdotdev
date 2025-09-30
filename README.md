@@ -143,6 +143,8 @@ I’m always open to new ideas, collaborations, and freelance opportunities.
 
 [Mail](mailto:billahdotdev@gmail.com)  
 
+[WhatsApp](https://wa.me/+8801711992558)
+
 
 
 
