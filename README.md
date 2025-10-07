@@ -31,7 +31,11 @@ displayAboutMe();
 
 <pre>
 🙂 My Story:
-I used to have a clothing business, which taught me a lot about solving problems. While doing that, I discovered a love for coding. The pandemic gave me the perfect chance to put those two things together. I discovered the power of creating digital experiences that impact people's lives. Through years of learning, experimenting, and building, I've developed a deep understanding of the web ecosystem. Every project teaches me something new, and I believe in continuous learning and adaptation.
+I used to have a clothing business, which taught me a lot about solving problems. While doing that, 
+I discovered a love for coding. The pandemic gave me the perfect chance to put those two things together. 
+I discovered the power of creating digital experiences that impact people's lives. Through years of learning, 
+experimenting, and building, I've developed a deep understanding of the web ecosystem. Every project teaches me something new, 
+and I believe in continuous learning and adaptation.
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!            
