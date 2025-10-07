@@ -31,12 +31,7 @@ displayAboutMe();
 
 <pre>
 🙂 My Story:
-I started my journey running a clothing business, where I learned to solve problems and think creatively under pressure. 
-My path took an exciting turn when I discovered coding, captivated by its potential. During the pandemic, 
-I combined these two passions, building digital experiences that genuinely impact people's lives. 
-Every project is a new lesson, and I believe that continuous growth comes from staying curious 
-and adapting at every step. If you're looking for someone who understands both code and 
-commerce, I would love to help.   
+I used to have a clothing business, which taught me a lot about solving problems. While doing that, I discovered a love for coding. The pandemic gave me the perfect chance to put those two things together.
 
 👩‍💻 I Speak:
 English, Bangla(Native), Taglish, and of course JavaScript!            
