@@ -49,7 +49,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary><strong>My Digital Store</strong></summary>    
+<summary><strong>My Digital Store</strong></summary>     
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Store Banner" width="100%" style="border-radius: 12px;" />
