@@ -1,28 +1,34 @@
        
 ```javascript                                                                      
 
-// Welcome to my world!        
-const displayAboutMe = () => {
-    const aboutMe = {
-        name: 'Masum Billah',
-        intro: "Web Developer & Digital Marketer bringing digital dreams to life.",
-        languages: ['JavaScript', 'TypeScript'],
-        coreTechnologies: ['MongoDB', 'Express', 'React', 'Node.js'],
-        tools: ['Git', 'Tailwind CSS', 'Figma', 'Inkscape', 'and more...'],
-        interests: ['Web Technologies', 'Strategic Marketing', 'Branding'],
-        locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
-        webAddress: 'https://billah.dev',
-        contact: {
-            email: 'billahdotdev@gmail.com',
-            phone: ['+8801711992558', '+639156015542'],
-            socialMediaHandle: 'billahdotdev',
-        },
+/**
+ * @author Masum Billah (billah.dev)
+ * @mission Bringing digital dreams to life.
+ */
+class DigitalArchitect {
+  constructor() {
+    this.roles = ["Web Developer", "Digital Marketer"];
+    this.languages = ["JavaScript", "TypeScript"];
+    this.stack = ["MongoDB", "Express", "React", "Node.js"];
+    this.hubs = ["Manila, PH", "Dhaka, BD"]; 
+
+    this.agency = {
+      name: "Digitalizen",
+      url: "https://digitalizen.billah.dev"
     };
 
-    console.log(aboutMe);
-};
+    this.tools = ["Git", "Tailwind CSS", "Figma", "Inkscape"];
 
-displayAboutMe();                                                                                                  
+    this.contact = {
+      email: "masum@billah.dev",
+      web: "https://billah.dev",
+      socials: {
+        github: "@billahdotdev",
+        linkedin: "linkedin.com/in/billahdotdev"
+      }
+    };
+  }
+}                                                                                 
 
 ```                                       
      
