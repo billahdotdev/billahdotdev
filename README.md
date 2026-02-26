@@ -132,7 +132,7 @@ From **custom websites** to **personal landing pages** — let's bring your idea
 </a>
 
 ---
-</details>
+</details>  
 
 
 
