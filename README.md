@@ -5,11 +5,11 @@
 const displayAboutMe = () => {
     const aboutMe = {
         name: 'Masum Billah',
-        intro: "I'm a web developer, bringing digital dreams to life.",
+        intro: "Web Developer & Digital Marketer bringing digital dreams to life.",
         languages: ['JavaScript', 'TypeScript'],
-        coreTechnologies: ['MongoDB', 'Express', 'React', 'Node'],
-        tools: ['Git', 'TailwindCSS', 'Figma', 'Inkscape', 'and more...'],
-        interests: ['Web Technologies', 'Smart marketing', 'Branding'],
+        coreTechnologies: ['MongoDB', 'Express', 'React', 'Node.js'],
+        tools: ['Git', 'Tailwind CSS', 'Figma', 'Inkscape', 'and more...'],
+        interests: ['Web Technologies', 'Strategic Marketing', 'Branding'],
         locations: ['Manila, Philippines', 'Dhaka, Bangladesh'],
         webAddress: 'https://billah.dev',
         contact: {
@@ -22,7 +22,7 @@ const displayAboutMe = () => {
     console.log(aboutMe);
 };
 
-displayAboutMe();                                                                                                            
+displayAboutMe();                                                                                                  
 
 ```                                       
      
