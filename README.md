@@ -10,6 +10,7 @@ export const MasumBillah = {
   build:    () => ["React", "Node.js", "Express", "MongoDB"],
   scale:    () => ["Meta CAPI", "GTM Server-Side", "GA4"],
   optimize: () => ["PSI 100", "Critical CSS", "Automation"],
+
   nexus: {
     agency:   "Digitalizen",
     location: "Manila // Dhaka",
