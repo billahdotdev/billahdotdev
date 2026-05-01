@@ -2,33 +2,20 @@
 ```javascript                                                                      
 
 /**
- * @author Masum Billah (billah.dev)
- * @mission Bringing digital dreams to life.
+ * @architect   @billahdotdev // Masum Billah
+ * @engine      Full-Stack [MERN] + AI Sales Logic 2026
+ * @strategy    Code + Marketing (The Growth Recipe)
  */
-class DigitalArchitect {
-  constructor() {
-    this.roles = ["Web Developer", "Digital Marketer"];
-    this.languages = ["JavaScript", "TypeScript"];
-    this.stack = ["MongoDB", "Express", "React", "Node.js"];
-    this.hubs = ["Manila, PH", "Dhaka, BD"]; 
-
-    this.agency = {
-      name: "Digitalizen",
-      url: "https://digitalizen.billah.dev"
-    };
-
-    this.tools = ["Git", "Tailwind CSS", "Figma", "Inkscape"];
-
-    this.contact = {
-      email: "masum@billah.dev",
-      web: "https://billah.dev",
-      socials: {
-        github: "@billahdotdev",
-        linkedin: "linkedin.com/in/billahdotdev"
-      }
-    };
+export const MasumBillah = {
+  build:    () => ["React", "Node.js", "Express", "MongoDB"],
+  scale:    () => ["Meta CAPI", "GTM Server-Side", "GA4"],
+  optimize: () => ["PSI 100", "Critical CSS", "Automation"],
+  nexus: {
+    agency:   "Digitalizen",
+    location: "Manila // Dhaka",
+    web:      "billah.dev"
   }
-}                                                                                   
+};                                                             
 
 ```                                       
      
