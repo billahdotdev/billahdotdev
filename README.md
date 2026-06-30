@@ -4,7 +4,7 @@
 /**
  * @identity  Masum Billah | @billahdotdev
  * @role      Autonomous Revenue Architect [2026]
- * @strategy  Code + AI + Tech Marketing + Cloud Infra
+ * @strategy  Code + AI + Growth Marketing + Cloud Infra
  */
 
 export const Digitalizen = {
@@ -12,8 +12,7 @@ export const Digitalizen = {
   ping:   "masum@billah.dev",
   nodes:  { Dhaka: "01711992558", Manila: "09156015542" },
   status: "Systems automated. Revenue scaling."
-};                           
-
+};
 ```                                       
      
 <details> 
