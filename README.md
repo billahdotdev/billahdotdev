@@ -2,21 +2,17 @@
 ```javascript                                                                      
 
 /**
- * @architect   @billahdotdev // Masum Billah
- * @engine      Full-Stack [MERN] + AI Sales Logic 2026
- * @strategy    Code + Marketing (The Growth Recipe)
+ * @identity  Masum Billah | @billahdotdev
+ * @role      Autonomous Revenue Architect [2026]
+ * @strategy  Code + AI + Tech Marketing + Cloud Infra
  */
-export const MasumBillah = {
-  build:    () => ["React", "Node.js", "Express", "MongoDB"],
-  scale:    () => ["Meta CAPI", "GTM Server-Side", "GA4"],
-  optimize: () => ["PSI 100", "Critical CSS", "Automation"],
 
-  nexus: {
-    agency:   "Digitalizen",
-    location: "Manila // Dhaka",
-    web:      "billah.dev"
-  }
-};                                                             
+export const Digitalizen = {
+  web:    "billah.dev",
+  ping:   "masum@billah.dev",
+  hubs:   { Dhaka: "01711992558", Manila: "09156015542" },
+  status: "Systems automated. Revenue scaling."
+};                                                          
 
 ```                                       
      
