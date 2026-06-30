@@ -8,11 +8,11 @@
  */
 
 export const Digitalizen = {
-  web:    "billah.dev",
+  origin: "billah.dev",
   ping:   "masum@billah.dev",
-  hubs:   { Dhaka: "01711992558", Manila: "09156015542" },
+  nodes:  { Dhaka: "01711992558", Manila: "09156015542" },
   status: "Systems automated. Revenue scaling."
-};                                                          
+};                           
 
 ```                                       
      
