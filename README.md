@@ -3,7 +3,7 @@
 
 /**
  * @identity  Masum Billah | @billahdotdev
- * @role      Autonomous Revenue Architect [2026]
+ * @role      Brand & Business Systems Architect [2026]
  * @strategy  Code + AI + Growth Marketing + Cloud Infra
  */
 
