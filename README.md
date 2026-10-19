@@ -18,7 +18,7 @@ export const Digitalizen = {
 
 ## Let’s Connect
 
-I’m always open to new ideas, collaborations, and freelance opportunities.
+I’m always open to new ideas, and collaborations.
 
 [billah.dev](https://billah.dev)  
 
